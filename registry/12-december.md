@@ -1,6 +1,6 @@
 # December
 
-301 canonical IDs. `Entry` is the elogium's position within the day in the digitized workbook (editio altera 2004); `*` marks asterisked entries; `Country` is the ISO 3166-1 alpha-2 code of the modern country of the place of the elogium.
+300 canonical IDs. `Entry` is the elogium's position within the day in the digitized workbook (editio altera 2004); `*` marks asterisked entries; `Country` is the ISO 3166-1 alpha-2 code of the modern country of the place of the elogium.
 
 | Day | Entry | ID | * | Country | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -104,7 +104,6 @@
 | 10 | 6 | `mr:1210-edmundus-gennings` |  | GB |  |
 | 10 | 7 | `mr:1210-polydorus-plasden-et-eustatius-white` |  | GB |  |
 | 10 | 8 | `mr:1210-ioannes-roberts` |  | GB |  |
-| 10 | 9 | `mr:1210-marcus-antonius-durando` | * | IT |  |
 | 10 | 10 | `mr:1210-gundisalvus-vines-masip` | * | ES |  |
 | 10 | 11 | `mr:1210-antonius-martin-hernandez` | * | ES |  |
 | 11 | 1 | `mr:1211-damasus-i` |  | IT |  |

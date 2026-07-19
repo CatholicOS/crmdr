@@ -1,6 +1,6 @@
 # June
 
-346 canonical IDs. `Entry` is the elogium's position within the day in the digitized workbook (editio altera 2004); `*` marks asterisked entries; `Country` is the ISO 3166-1 alpha-2 code of the modern country of the place of the elogium.
+347 canonical IDs. `Entry` is the elogium's position within the day in the digitized workbook (editio altera 2004); `*` marks asterisked entries; `Country` is the ISO 3166-1 alpha-2 code of the modern country of the place of the elogium.
 
 | Day | Entry | ID | * | Country | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -129,6 +129,7 @@
 | 10 | 7 | `mr:0610-ioannes-dominicus` | * | HU |  |
 | 10 | 8 | `mr:0610-thomas-green` | * | GB |  |
 | 10 | 9 | `mr:0610-eduardus-poppe` | * | BE |  |
+| 10 | — | `mr:0610-marcus-antonius-durando` | * | IT | Entry 9* at June 10 in the Latin editio altera 2004 print (verified on the page scan); the Italian (CEI) edition and the digitized workbook place the elogium at December 10 (entry 9*). |
 | 11 | 1 | `mr:0611-barnabas` |  | IL |  |
 | 11 | 2 | `mr:0611-maximus` |  | IT |  |
 | 11 | 3 | `mr:0611-rembertus` |  | DE |  |

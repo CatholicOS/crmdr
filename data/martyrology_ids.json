@@ -15667,6 +15667,15 @@
       "country": "BE"
     },
     {
+      "id": "mr:0610-marcus-antonius-durando",
+      "month": 6,
+      "day": 10,
+      "entry": null,
+      "asterisk": true,
+      "country": "IT",
+      "note": "Entry 9* at June 10 in the Latin editio altera 2004 print (verified on the page scan); the Italian (CEI) edition and the digitized workbook place the elogium at December 10 (entry 9*)."
+    },
+    {
       "id": "mr:0611-barnabas",
       "month": 6,
       "day": 11,
@@ -18386,7 +18395,8 @@
       "day": 9,
       "entry": 11,
       "asterisk": true,
-      "country": "IT"
+      "country": "IT",
+      "note": "Entry 11* at July 9 in the Italian (CEI) edition; absent from the Latin editio altera 2004 print, whose July 9 ends at entry 10*. Bl. Marija Petković was beatified on 6 June 2003."
     },
     {
       "id": "mr:0710-felix-et-philippus",
@@ -18627,7 +18637,8 @@
       "day": 12,
       "entry": 1,
       "asterisk": false,
-      "country": "TR"
+      "country": "TR",
+      "note": "Entry 1 at July 12 in the Italian (CEI) edition; absent from the Latin editio altera 2004 print, whose July 12 numbering begins at 2 with the gap left unrenumbered."
     },
     {
       "id": "mr:0712-fortunatus-et-hermagora",
@@ -24089,7 +24100,8 @@
       "day": 25,
       "entry": 3,
       "asterisk": false,
-      "country": "IT"
+      "country": "IT",
+      "note": "Entry 3 at August 25 in the Italian (CEI) edition; absent from the Latin editio altera 2004 print, where the day's numbered entries begin at 3 (Genesius) after the two unnumbered memorias."
     },
     {
       "id": "mr:0825-genesius",
@@ -35563,14 +35575,6 @@
       "entry": 8,
       "asterisk": false,
       "country": "GB"
-    },
-    {
-      "id": "mr:1210-marcus-antonius-durando",
-      "month": 12,
-      "day": 10,
-      "entry": 9,
-      "asterisk": true,
-      "country": "IT"
     },
     {
       "id": "mr:1210-gundisalvus-vines-masip",

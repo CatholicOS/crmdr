@@ -361,7 +361,7 @@
 | 24 | 12 | `mr:0824-ceslaus-jozwiak-et-socii` | * | DE |  |
 | 25 | 1 | `mr:0825-ludovicus-nonus` |  | FR |  |
 | 25 | 2 | `mr:0825-iosephus-de-calasanz` |  | IT |  |
-| 25 | 3 | `mr:0825-eusebius-et-socii` |  | IT |  |
+| 25 | 3 | `mr:0825-eusebius-et-socii` |  | IT | Entry 3 at August 25 in the Italian (CEI) edition; absent from the Latin editio altera 2004 print, where the day's numbered entries begin at 3 (Genesius) after the two unnumbered memorias. |
 | 25 | 4 | `mr:0825-genesius` |  | FR |  |
 | 25 | 5 | `mr:0825-geruntius` |  | ES |  |
 | 25 | 6 | `mr:0825-severus` | * | FR |  |

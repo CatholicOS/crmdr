@@ -239,6 +239,47 @@ restored from the print (Commemoratio sancti Archippi...). ID: mr:0320-archippus
 - 11/21 voce 3: maurus → place parentii
 - 11/21 voce 6: maurus → place caesenae
 
+## Full-corpus asterisk sweep (July 2026)
+
+All 4,641 workbook rows were matched by text similarity against the OCR text layers of
+both printed editions (each row's Latin and Italian text against the numbered-entry
+sequences parsed from the respective scans), and every printed entry number and asterisk
+was compared against the registry. Rows that could not be matched confidently and every
+flagged difference were triaged individually, with visual page-scan verification wherever
+the OCR was ambiguous or a claim rested on the absence of a mark.
+
+**Result: zero new asterisk discrepancies.** The 29 documented overrides were
+re-validated on both editions; every other matched entry agrees with the registry.
+Roughly 210 rows are unnumbered in both prints — the drop-cap memoria paragraphs that
+open each day (including second and third memorias sharing a day, e.g. Fabian + Sebastian
+on Jan 20) — and carry no asterisk anywhere, consistent with the registry.
+
+The sweep did surface four cross-edition **structural** differences (all verified on the
+page scans of both editions):
+
+- **mr:0610-marcus-antonius-durando** (formerly mr:1210-…): the Latin editio altera 2004
+  places Bl. Marcantonio Durando at June 10 (entry 9\*); the Italian (CEI) edition places
+  him at December 10 (entry 9\*). The MMDD anchor follows the Latin print, so the ID
+  changes to mr:0610-marcus-antonius-durando.
+- **mr:0712-proclus-et-hilarion**: entry 1 at July 12 in the CEI edition; absent from the
+  Latin print, whose July 12 numbering begins at 2 with the gap left unrenumbered.
+- **mr:0825-eusebius-et-socii**: entry 3 at August 25 in the CEI edition; absent from the
+  Latin print, where the numbered entries begin at 3 (Genesius) after the two unnumbered
+  memorias (Louis IX, Joseph Calasanz).
+- **mr:0709-maria-a-iesu-crucifixo-petkovic**: entry 11\* at July 9 in the CEI edition;
+  absent from the Latin print, whose July 9 ends at entry 10\*. (Bl. Marija Petković was
+  beatified on 6 June 2003.)
+
+Numbering conventions observed: the two editions renumber after a removed entry in some
+places (Aug 25) and leave a gap in others (July 12); the leap-day elogia are printed
+twice with independent numbering in both editions (Feb 28 entries 4–7 = Feb 29 entries
+1–4), as already reflected in the registry.
+
+**Incidental slug flag**: mr:0331-domninus (3/31 voce 4) — the elogium's first-named
+subject is San Guido, abbot; "Domninus" comes from the place name (Burgi Sancti Domníni,
+Borgo San Donnino, today Fidenza). Under rule 1 the slug should arguably be guido (with a
+collision check); left unchanged pending committee review.
+
 ## Known caveats for the committee
 
 - Rare genitives with no safe rule remain in genitive form (single-occurrence Greek

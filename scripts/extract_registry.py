@@ -37,6 +37,45 @@ MONTH_NAMES_EN = [
 # well-known Latin form exists: "Miki" is a Japanese surname with no such form.
 ID_CORRECTIONS = {
     "mr:0206-paulus-mikus-et-socii": "mr:0206-paulus-miki-et-socii",
+    # The Latin editio altera 2004 places Bl. Marcantonio Durando at June 10
+    # (entry 9*); the Italian (CEI) edition places him at December 10 (entry
+    # 9*). The MMDD anchor follows the Latin print.
+    "mr:1210-marcus-antonius-durando": "mr:0610-marcus-antonius-durando",
+}
+
+# Placement overrides: the digitized workbook records the Italian (CEI)
+# placement, but the anchor edition (the Latin editio altera 2004 print)
+# places the elogium on a different day. Maps corrected ID -> (month, day,
+# entry, note). `entry` is None because the workbook has no row for the
+# anchor-edition day.
+PLACEMENT_OVERRIDES = {
+    "mr:0610-marcus-antonius-durando": (
+        6, 10, None,
+        "Entry 9* at June 10 in the Latin editio altera 2004 print (verified "
+        "on the page scan); the Italian (CEI) edition and the digitized "
+        "workbook place the elogium at December 10 (entry 9*).",
+    ),
+}
+
+# Entries present in the Italian (CEI) edition and the digitized workbook but
+# absent from the Latin editio altera 2004 print (all verified on the page
+# scans of both editions, July 2026).
+ENTRY_NOTES = {
+    "mr:0712-proclus-et-hilarion": (
+        "Entry 1 at July 12 in the Italian (CEI) edition; absent from the "
+        "Latin editio altera 2004 print, whose July 12 numbering begins at 2 "
+        "with the gap left unrenumbered."
+    ),
+    "mr:0825-eusebius-et-socii": (
+        "Entry 3 at August 25 in the Italian (CEI) edition; absent from the "
+        "Latin editio altera 2004 print, where the day's numbered entries "
+        "begin at 3 (Genesius) after the two unnumbered memorias."
+    ),
+    "mr:0709-maria-a-iesu-crucifixo-petkovic": (
+        "Entry 11* at July 9 in the Italian (CEI) edition; absent from the "
+        "Latin editio altera 2004 print, whose July 9 ends at entry 10*. "
+        "Bl. Marija Petković was beatified on 6 June 2003."
+    ),
 }
 
 # Asterisk overrides where the digitized workbook follows the Italian (CEI)
@@ -173,6 +212,12 @@ def extract(workbook_path):
             }
             if mr_id in ASTERISK_OVERRIDES:
                 row_out["asterisk"], row_out["note"] = ASTERISK_OVERRIDES[mr_id]
+            if mr_id in PLACEMENT_OVERRIDES:
+                p_month, p_day, p_entry, p_note = PLACEMENT_OVERRIDES[mr_id]
+                row_out.update(month=p_month, day=p_day, entry=p_entry)
+                row_out["note"] = (row_out.get("note", "") + " " + p_note).strip()
+            if mr_id in ENTRY_NOTES:
+                row_out["note"] = (row_out.get("note", "") + " " + ENTRY_NOTES[mr_id]).strip()
             rows.append(row_out)
 
     # Merge duplicate IDs (the leap-day elogia): keep the Feb 29 placement as
