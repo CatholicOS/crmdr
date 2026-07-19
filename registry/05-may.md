@@ -38,7 +38,7 @@
 | 2 | 9 | `mr:0502-gulielmus-tirry` | * | IE |  |
 | 2 | 10 | `mr:0502-iosephus-nguyen-van-luu` |  | VN |  |
 | 2 | 11 | `mr:0502-iosephus-maria-rubio-peralta` |  | ES |  |
-| 2 | 12 | `mr:0502-boleslaus-strzelecki` |  | PL |  |
+| 2 | 12 | `mr:0502-boleslaus-strzelecki` | * | PL | Asterisked entry (12*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk. |
 | 3 | 1 | `mr:0503-philippus-et-iacobus` |  | PS |  |
 | 3 | 2 | `mr:0503-timotheus-et-maura` |  | EG |  |
 | 3 | 3 | `mr:0503-eventius-et-socii` |  | IT |  |
@@ -161,7 +161,7 @@
 | 12 | 7 | `mr:0512-rictrudis` | * | FR |  |
 | 12 | 8 | `mr:0512-germanus` |  | TR |  |
 | 12 | 9 | `mr:0512-dominicus` |  | ES |  |
-| 12 | 10 | `mr:0512-imelda-lambertini` |  | IT |  |
+| 12 | 10 | `mr:0512-imelda-lambertini` | * | IT | Asterisked entry (10*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk. |
 | 12 | 11 | `mr:0512-ioanna` | * | PT |  |
 | 13 | 1 | `mr:0513-maria-de-fatima` |  | PT |  |
 | 13 | 2 | `mr:0513-servatius` |  | NL |  |
@@ -308,7 +308,7 @@
 | 24 | 1 | `mr:0524-manaen` |  | TR |  |
 | 24 | 2 | `mr:0524-ioanna` |  | PS |  |
 | 24 | 3 | `mr:0524-zoellus` |  | TR |  |
-| 24 | 4 | `mr:0524-servulus` |  | IT |  |
+| 24 | 4 | `mr:0524-servulus` | * | IT | Asterisked entry (4*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk. |
 | 24 | 5 | `mr:0524-donatianus-et-rogatianus` |  | FR |  |
 | 24 | 6 | `mr:0524-triginta-octo-martyres-philippopoli` |  | BG |  |
 | 24 | 7 | `mr:0524-vincentius` |  | FR |  |

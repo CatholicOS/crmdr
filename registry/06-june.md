@@ -132,7 +132,7 @@
 | 11 | 1 | `mr:0611-barnabas` |  | IL |  |
 | 11 | 2 | `mr:0611-maximus` |  | IT |  |
 | 11 | 3 | `mr:0611-rembertus` |  | DE |  |
-| 11 | 4 | `mr:0611-bardo` |  | DE |  |
+| 11 | 4 | `mr:0611-bardo` | * | DE | Asterisked entry (4*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk. |
 | 11 | 5 | `mr:0611-aleydis` | * | BE |  |
 | 11 | 6 | `mr:0611-parisius` |  | IT |  |
 | 11 | 7 | `mr:0611-iolenta` | * | PL |  |
@@ -274,7 +274,7 @@
 | 24 | 4 | `mr:0624-agoardus-et-agilbertus` |  | FR |  |
 | 24 | 5 | `mr:0624-rumoldus` |  | BE |  |
 | 24 | 6 | `mr:0624-theodulfus` |  | BE |  |
-| 24 | 7 | `mr:0624-gohardus` |  | FR |  |
+| 24 | 7 | `mr:0624-gohardus` | * | FR | Asterisked entry (7*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk. |
 | 24 | 8 | `mr:0624-theodgarus` | * | DK |  |
 | 24 | 9 | `mr:0624-iosephus-yuan-zaide` |  | CN |  |
 | 24 | 10 | `mr:0624-maria-a-guadalupe-garcia-zavala` | * | MX |  |

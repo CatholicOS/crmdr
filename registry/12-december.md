@@ -8,7 +8,7 @@
 | 1 | 2 | `mr:1201-castritianus` |  | IT |  |
 | 1 | 3 | `mr:1201-florentia` | * | FR |  |
 | 1 | 4 | `mr:1201-leontius` | * | FR |  |
-| 1 | 5 | `mr:1201-domnolus` | * | FR |  |
+| 1 | 5 | `mr:1201-domnolus` |  | FR | Plain entry (5., no asterisk) in the Latin editio altera 2004 print, visually verified on the page scan; the Italian (CEI) edition marks the entry with an asterisk. |
 | 1 | 6 | `mr:1201-agericus` |  | FR |  |
 | 1 | 7 | `mr:1201-eligius` |  | FR |  |
 | 1 | 8 | `mr:1201-antonius-bonfadini` | * | IT |  |
@@ -31,7 +31,7 @@
 | 3 | 2 | `mr:1203-sophonia` |  | PS |  |
 | 3 | 3 | `mr:1203-cassianus` |  | MA |  |
 | 3 | 4 | `mr:1203-birinus` |  | GB |  |
-| 3 | 5 | `mr:1203-lucius` | * | CH |  |
+| 3 | 5 | `mr:1203-lucius` |  | CH | Plain entry (5., no asterisk) in the Latin editio altera 2004 print, visually verified on the page scan; the Italian (CEI) edition marks the entry with an asterisk. |
 | 3 | 6 | `mr:1203-eduardus-coleman` | * | GB |  |
 | 3 | 7 | `mr:1203-ioannes-nepomucenus-de-tschiderer` | * | IT |  |
 | 4 | 1 | `mr:1204-ioannes-damasceni` |  | IL |  |
@@ -129,7 +129,7 @@
 | 12 | 8 | `mr:1212-bartholus-buonpedoni` | * | IT |  |
 | 12 | 9 | `mr:1212-conradus-de-ophyda` | * | IT |  |
 | 12 | 10 | `mr:1212-iacobus-capocci` | * | IT |  |
-| 12 | 11 | `mr:1212-simon-phan` | * | VN |  |
+| 12 | 11 | `mr:1212-simon-phan` |  | VN | Plain entry (11., no asterisk) in the Latin editio altera 2004 print, visually verified on the page scan; the Italian (CEI) edition marks the entry with an asterisk. |
 | 12 | 12 | `mr:1212-pius-bartosik` | * | PL |  |
 | 13 | 1 | `mr:1213-lucia` |  | IT |  |
 | 13 | 2 | `mr:1213-aristo` |  | IT |  |
@@ -158,7 +158,7 @@
 | 14 | 14 | `mr:1214-protasius-cubells-minguell` | * | ES |  |
 | 15 | 1 | `mr:1215-valerianus` |  | TN |  |
 | 15 | 2 | `mr:1215-maximinus` |  | FR |  |
-| 15 | 3 | `mr:1215-marinus` |  | IT |  |
+| 15 | 3 | `mr:1215-marinus` | * | IT | Asterisked entry (3*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk. |
 | 15 | 4 | `mr:1215-maria-victoria-fornari` | * | IT |  |
 | 15 | 5 | `mr:1215-virginia-centurione-bracelli` |  | IT |  |
 | 15 | 6 | `mr:1215-maria-crucifixa-de-rosa` |  | IT |  |
@@ -288,7 +288,7 @@
 | 30 | 4 | `mr:1230-perpetuus` |  | FR |  |
 | 30 | 5 | `mr:1230-iucundus` | * | IT |  |
 | 30 | 6 | `mr:1230-geremarus` |  | FR |  |
-| 30 | 7 | `mr:1230-egwinus` |  | GB |  |
+| 30 | 7 | `mr:1230-egwinus` | * | GB | Asterisked entry (7*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk. |
 | 30 | 8 | `mr:1230-rainerius` |  | IT |  |
 | 30 | 9 | `mr:1230-rogerius` | * | IT |  |
 | 30 | 10 | `mr:1230-laurentius` | * | IT |  |

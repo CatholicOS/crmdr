@@ -137,7 +137,7 @@
 | 9 | 7 | `mr:0909-georgius-douglas` | * | GB |  |
 | 9 | 8 | `mr:0909-petrus-bonhomme` | * | FR |  |
 | 9 | 9 | `mr:0909-iacobus-desideratus-laval` | * | MU |  |
-| 9 | 10 | `mr:0909-franciscus-garate-aranguren` |  | ES |  |
+| 9 | 10 | `mr:0909-franciscus-garate-aranguren` | * | ES | Asterisked entry (10*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk. |
 | 10 | 1 | `mr:0910-nemesius` |  | EG |  |
 | 10 | 2 | `mr:0910-nemesianus-et-socii` |  | TN |  |
 | 10 | 3 | `mr:0910-pulcheria` |  | TR |  |

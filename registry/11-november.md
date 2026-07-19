@@ -38,14 +38,14 @@
 | 2 | 14 | `mr:1102-pius-a-sancto-aloysio-campidelli` | * | IT |  |
 | 3 | 1 | `mr:1103-martinus-de-porres` |  | PE |  |
 | 3 | 2 | `mr:1103-germanus-et-socii` |  | TR |  |
-| 3 | 3 | `mr:1103-libertinus` |  | IT |  |
+| 3 | 3 | `mr:1103-libertinus` | * | IT | Asterisked entry (3*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk. |
 | 3 | 4 | `mr:1103-papulus` | * | FR |  |
 | 3 | 5 | `mr:1103-valentinus` |  | IT |  |
 | 3 | 6 | `mr:1103-guenael` | * | FR |  |
 | 3 | 7 | `mr:1103-silvia` |  | IT |  |
 | 3 | 8 | `mr:1103-pirminus` |  | FR |  |
 | 3 | 9 | `mr:1103-ioannicius` |  | TR |  |
-| 3 | 10 | `mr:1103-odrada` |  | NL |  |
+| 3 | 10 | `mr:1103-odrada` | * | NL | Asterisked entry (10*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk. |
 | 3 | 11 | `mr:1103-ermengaudius` |  | ES |  |
 | 3 | 12 | `mr:1103-berardus` | * | IT |  |
 | 3 | 13 | `mr:1103-alpaidis` | * | FR |  |
@@ -242,7 +242,7 @@
 | 18 | 3 | `mr:1118-patroclus` | * | FR |  |
 | 18 | 4 | `mr:1118-maudetus` | * | FR |  |
 | 18 | 5 | `mr:1118-romacharius` | * | FR |  |
-| 18 | 6 | `mr:1118-theofredus` |  | FR |  |
+| 18 | 6 | `mr:1118-theofredus` | * | FR | Asterisked entry (6*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk. |
 | 18 | 7 | `mr:1118-odo` |  | FR |  |
 | 18 | 8 | `mr:1118-leonardus-kimura` | * | JP |  |
 | 18 | 9 | `mr:1118-philippina-duchesne` |  | US |  |
@@ -254,7 +254,7 @@
 | 19 | 3 | `mr:1119-severinus-et-socii` |  | FR |  |
 | 19 | 4 | `mr:1119-barlaam` |  | TR |  |
 | 19 | 5 | `mr:1119-mulieres-virgines-viduae-quadraginta-martyres-heracleae` |  | TR |  |
-| 19 | 6 | `mr:1119-eudo` |  | FR |  |
+| 19 | 6 | `mr:1119-eudo` | * | FR | Asterisked entry (6*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk. |
 | 19 | 7 | `mr:1119-simon` | * | IT |  |
 | 19 | 8 | `mr:1119-mechtildis` | * | DE |  |
 | 19 | 9 | `mr:1119-iacobus-benfatti` | * | IT |  |

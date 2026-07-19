@@ -49,10 +49,10 @@
 | 3 | 10 | `mr:0103-cyriacus-elias-chavara` | * | IN |  |
 | 4 | 1 | `mr:0104-hermes-et-caius` |  | RO |  |
 | 4 | 2 | `mr:0104-gregorius` |  | FR |  |
-| 4 | 3 | `mr:0104-ferreolus` |  | FR |  |
-| 4 | 4 | `mr:0104-rigomerus` |  | FR |  |
+| 4 | 3 | `mr:0104-ferreolus` | * | FR | Asterisked entry (4*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk. |
+| 4 | 4 | `mr:0104-rigomerus` | * | FR | Asterisked entry (5*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk. |
 | 4 | 5 | `mr:0104-rigobertus` |  | FR |  |
-| 4 | 6 | `mr:0104-pharaildis` |  | FR |  |
+| 4 | 6 | `mr:0104-pharaildis` | * | FR | Asterisked entry (7*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk. |
 | 4 | 7 | `mr:0104-angela` | * | IT |  |
 | 4 | 8 | `mr:0104-christiana-menabuoi` | * | IT |  |
 | 4 | 9 | `mr:0104-thomas-plumtree` | * | GB |  |
@@ -291,7 +291,7 @@
 | 22 | 12 | `mr:0122-gulielmus-iosephus-chaminade` | * | FR |  |
 | 22 | 13 | `mr:0122-laura-vicuna` | * | AR |  |
 | 22 | 14 | `mr:0122-iosephus-nascimbeni` | * | IT |  |
-| 22 | 15 | `mr:0122-ladislaus-batthyany-strattmann` |  | AT |  |
+| 22 | 15 | `mr:0122-ladislaus-batthyany-strattmann` | * | AT | Asterisked entry (15*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk. |
 | 23 | 1 | `mr:0123-severianus-et-aquila` |  | DZ |  |
 | 23 | 2 | `mr:0123-emerentiana` |  | IT |  |
 | 23 | 3 | `mr:0123-clemens` |  | TR |  |

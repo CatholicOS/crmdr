@@ -369,16 +369,18 @@
       "month": 1,
       "day": 4,
       "entry": 3,
-      "asterisk": false,
-      "country": "FR"
+      "asterisk": true,
+      "country": "FR",
+      "note": "Asterisked entry (4*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk."
     },
     {
       "id": "mr:0104-rigomerus",
       "month": 1,
       "day": 4,
       "entry": 4,
-      "asterisk": false,
-      "country": "FR"
+      "asterisk": true,
+      "country": "FR",
+      "note": "Asterisked entry (5*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk."
     },
     {
       "id": "mr:0104-rigobertus",
@@ -393,8 +395,9 @@
       "month": 1,
       "day": 4,
       "entry": 6,
-      "asterisk": false,
-      "country": "FR"
+      "asterisk": true,
+      "country": "FR",
+      "note": "Asterisked entry (7*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk."
     },
     {
       "id": "mr:0104-angela",
@@ -2307,8 +2310,9 @@
       "month": 1,
       "day": 22,
       "entry": 15,
-      "asterisk": false,
-      "country": "AT"
+      "asterisk": true,
+      "country": "AT",
+      "note": "Asterisked entry (15*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk."
     },
     {
       "id": "mr:0123-severianus-et-aquila",
@@ -7745,7 +7749,7 @@
       "entry": 11,
       "asterisk": false,
       "country": "LB",
-      "note": "No asterisk in the Latin editio altera 2004 print or in Mons. Barba's Word transcription; the Italian (CEI) edition marks the entry with an asterisk."
+      "note": "Plain entry (11., no asterisk) in the Latin editio altera 2004 print, visually verified on the page scan; the Italian (CEI) edition marks the entry with an asterisk."
     },
     {
       "id": "mr:0323-methodius-dominicus-trcka",
@@ -11680,8 +11684,9 @@
       "month": 5,
       "day": 2,
       "entry": 12,
-      "asterisk": false,
-      "country": "PL"
+      "asterisk": true,
+      "country": "PL",
+      "note": "Asterisked entry (12*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk."
     },
     {
       "id": "mr:0503-philippus-et-iacobus",
@@ -12664,8 +12669,9 @@
       "month": 5,
       "day": 12,
       "entry": 10,
-      "asterisk": false,
-      "country": "IT"
+      "asterisk": true,
+      "country": "IT",
+      "note": "Asterisked entry (10*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk."
     },
     {
       "id": "mr:0512-ioanna",
@@ -13840,8 +13846,9 @@
       "month": 5,
       "day": 24,
       "entry": 4,
-      "asterisk": false,
-      "country": "IT"
+      "asterisk": true,
+      "country": "IT",
+      "note": "Asterisked entry (4*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk."
     },
     {
       "id": "mr:0524-donatianus-et-rogatianus",
@@ -15688,8 +15695,9 @@
       "month": 6,
       "day": 11,
       "entry": 4,
-      "asterisk": false,
-      "country": "DE"
+      "asterisk": true,
+      "country": "DE",
+      "note": "Asterisked entry (4*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk."
     },
     {
       "id": "mr:0611-aleydis",
@@ -16824,8 +16832,9 @@
       "month": 6,
       "day": 24,
       "entry": 7,
-      "asterisk": false,
-      "country": "FR"
+      "asterisk": true,
+      "country": "FR",
+      "note": "Asterisked entry (7*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk."
     },
     {
       "id": "mr:0624-theodgarus",
@@ -18528,8 +18537,9 @@
       "month": 7,
       "day": 11,
       "entry": 5,
-      "asterisk": false,
-      "country": "FR"
+      "asterisk": true,
+      "country": "FR",
+      "note": "Asterisked entry (5*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk."
     },
     {
       "id": "mr:0711-drostanus",
@@ -19520,8 +19530,9 @@
       "month": 7,
       "day": 18,
       "entry": 13,
-      "asterisk": false,
-      "country": "UA"
+      "asterisk": true,
+      "country": "UA",
+      "note": "Asterisked entry (13*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk."
     },
     {
       "id": "mr:0719-epaphra",
@@ -20992,8 +21003,9 @@
       "month": 7,
       "day": 30,
       "entry": 6,
-      "asterisk": false,
-      "country": "BE"
+      "asterisk": true,
+      "country": "BE",
+      "note": "Asterisked entry (6*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk."
     },
     {
       "id": "mr:0730-mannis-guzman",
@@ -21424,8 +21436,9 @@
       "month": 8,
       "day": 2,
       "entry": 8,
-      "asterisk": false,
-      "country": "FR"
+      "asterisk": true,
+      "country": "FR",
+      "note": "Asterisked entry (8*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk."
     },
     {
       "id": "mr:0802-petrus",
@@ -21880,8 +21893,9 @@
       "month": 8,
       "day": 7,
       "entry": 7,
-      "asterisk": false,
-      "country": "FR"
+      "asterisk": true,
+      "country": "FR",
+      "note": "Asterisked entry (7*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk."
     },
     {
       "id": "mr:0807-iordanus-forzate",
@@ -22520,8 +22534,9 @@
       "month": 8,
       "day": 12,
       "entry": 11,
-      "asterisk": true,
-      "country": "VN"
+      "asterisk": false,
+      "country": "VN",
+      "note": "Plain entry (11., no asterisk) in the Latin editio altera 2004 print, visually verified on the page scan; the Italian (CEI) edition marks the entry with an asterisk."
     },
     {
       "id": "mr:0812-victoria-diez-y-bustos-de-molina",
@@ -23696,8 +23711,9 @@
       "month": 8,
       "day": 21,
       "entry": 11,
-      "asterisk": true,
-      "country": "VN"
+      "asterisk": false,
+      "country": "VN",
+      "note": "Plain entry (11., no asterisk) in the Latin editio altera 2004 print, visually verified on the page scan; the Italian (CEI) edition marks the entry with an asterisk."
     },
     {
       "id": "mr:0821-victoria-rasoamanarivo",
@@ -25976,8 +25992,9 @@
       "month": 9,
       "day": 9,
       "entry": 10,
-      "asterisk": false,
-      "country": "ES"
+      "asterisk": true,
+      "country": "ES",
+      "note": "Asterisked entry (10*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk."
     },
     {
       "id": "mr:0910-nemesius",
@@ -30624,8 +30641,9 @@
       "month": 10,
       "day": 21,
       "entry": 8,
-      "asterisk": false,
-      "country": "DE"
+      "asterisk": true,
+      "country": "DE",
+      "note": "Asterisked entry (8*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk."
     },
     {
       "id": "mr:1021-maurontus",
@@ -31168,8 +31186,9 @@
       "month": 10,
       "day": 26,
       "entry": 7,
-      "asterisk": false,
-      "country": "GB"
+      "asterisk": true,
+      "country": "GB",
+      "note": "Asterisked entry (7*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk."
     },
     {
       "id": "mr:1026-sigebaldus",
@@ -31920,8 +31939,9 @@
       "month": 11,
       "day": 3,
       "entry": 3,
-      "asterisk": false,
-      "country": "IT"
+      "asterisk": true,
+      "country": "IT",
+      "note": "Asterisked entry (3*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk."
     },
     {
       "id": "mr:1103-papulus",
@@ -31976,8 +31996,9 @@
       "month": 11,
       "day": 3,
       "entry": 10,
-      "asterisk": false,
-      "country": "NL"
+      "asterisk": true,
+      "country": "NL",
+      "note": "Asterisked entry (10*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk."
     },
     {
       "id": "mr:1103-ermengaudius",
@@ -33552,8 +33573,9 @@
       "month": 11,
       "day": 18,
       "entry": 6,
-      "asterisk": false,
-      "country": "FR"
+      "asterisk": true,
+      "country": "FR",
+      "note": "Asterisked entry (6*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk."
     },
     {
       "id": "mr:1118-odo",
@@ -33648,8 +33670,9 @@
       "month": 11,
       "day": 19,
       "entry": 6,
-      "asterisk": false,
-      "country": "FR"
+      "asterisk": true,
+      "country": "FR",
+      "note": "Asterisked entry (6*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk."
     },
     {
       "id": "mr:1119-simon",
@@ -34776,8 +34799,9 @@
       "month": 12,
       "day": 1,
       "entry": 5,
-      "asterisk": true,
-      "country": "FR"
+      "asterisk": false,
+      "country": "FR",
+      "note": "Plain entry (5., no asterisk) in the Latin editio altera 2004 print, visually verified on the page scan; the Italian (CEI) edition marks the entry with an asterisk."
     },
     {
       "id": "mr:1201-agericus",
@@ -34960,8 +34984,9 @@
       "month": 12,
       "day": 3,
       "entry": 5,
-      "asterisk": true,
-      "country": "CH"
+      "asterisk": false,
+      "country": "CH",
+      "note": "Plain entry (5., no asterisk) in the Latin editio altera 2004 print, visually verified on the page scan; the Italian (CEI) edition marks the entry with an asterisk."
     },
     {
       "id": "mr:1203-eduardus-coleman",
@@ -35744,8 +35769,9 @@
       "month": 12,
       "day": 12,
       "entry": 11,
-      "asterisk": true,
-      "country": "VN"
+      "asterisk": false,
+      "country": "VN",
+      "note": "Plain entry (11., no asterisk) in the Latin editio altera 2004 print, visually verified on the page scan; the Italian (CEI) edition marks the entry with an asterisk."
     },
     {
       "id": "mr:1212-pius-bartosik",
@@ -35976,8 +36002,9 @@
       "month": 12,
       "day": 15,
       "entry": 3,
-      "asterisk": false,
-      "country": "IT"
+      "asterisk": true,
+      "country": "IT",
+      "note": "Asterisked entry (3*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk."
     },
     {
       "id": "mr:1215-maria-victoria-fornari",
@@ -37016,8 +37043,9 @@
       "month": 12,
       "day": 30,
       "entry": 7,
-      "asterisk": false,
-      "country": "GB"
+      "asterisk": true,
+      "country": "GB",
+      "note": "Asterisked entry (7*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk."
     },
     {
       "id": "mr:1230-rainerius",

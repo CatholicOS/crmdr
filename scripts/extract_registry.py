@@ -41,15 +41,63 @@ ID_CORRECTIONS = {
 
 # Asterisk overrides where the digitized workbook follows the Italian (CEI)
 # edition but the anchor edition (the Latin editio altera 2004 print) differs.
-# Each maps an ID to (asterisk_in_latin_print, note).
-ASTERISK_OVERRIDES = {
-    "mr:0323-rebecca-de-himlaya": (
-        False,
-        "No asterisk in the Latin editio altera 2004 print or in Mons. Barba's "
-        "Word transcription; the Italian (CEI) edition marks the entry with an "
-        "asterisk.",
-    ),
+# All were verified against the page scans of the Vatican print (2026-07):
+# asterisk-presence claims via the OCR text layer with visual spot-checks,
+# asterisk-absence claims each visually confirmed on the scan.
+
+# Entries asterisked in the Latin print but not in the CEI edition (nor in the
+# workbook). Maps ID -> entry number as printed in the Latin editio altera.
+LATIN_ASTERISKED = {
+    "mr:0104-ferreolus": 4,
+    "mr:0104-rigomerus": 5,
+    "mr:0104-pharaildis": 7,
+    "mr:0122-ladislaus-batthyany-strattmann": 15,
+    "mr:0502-boleslaus-strzelecki": 12,
+    "mr:0512-imelda-lambertini": 10,
+    "mr:0524-servulus": 4,
+    "mr:0611-bardo": 4,
+    "mr:0624-gohardus": 7,
+    "mr:0711-leontius": 5,
+    "mr:0718-tarsicia-mackiv": 13,
+    "mr:0730-godeleva": 6,
+    "mr:0802-betharius": 8,
+    "mr:0807-donatus-vesontione": 7,
+    "mr:0909-franciscus-garate-aranguren": 10,
+    "mr:1021-wendelinus": 8,
+    "mr:1026-eata": 7,
+    "mr:1103-libertinus": 3,
+    "mr:1103-odrada": 10,
+    "mr:1118-theofredus": 6,
+    "mr:1119-eudo": 6,
+    "mr:1215-marinus": 3,
+    "mr:1230-egwinus": 7,
 }
+
+# Entries with a plain number in the Latin print that the CEI edition (and the
+# workbook) marks with an asterisk. Maps ID -> entry number in the Latin print.
+LATIN_PLAIN = {
+    "mr:0323-rebecca-de-himlaya": 11,
+    "mr:0812-iacobus": 11,
+    "mr:0821-iosephus": 11,
+    "mr:1201-domnolus": 5,
+    "mr:1203-lucius": 5,
+    "mr:1212-simon-phan": 11,
+}
+
+ASTERISK_OVERRIDES = {}
+for _id, _n in LATIN_ASTERISKED.items():
+    ASTERISK_OVERRIDES[_id] = (
+        True,
+        f"Asterisked entry ({_n}*) in the Latin editio altera 2004 print; "
+        "the Italian (CEI) edition carries no asterisk.",
+    )
+for _id, _n in LATIN_PLAIN.items():
+    ASTERISK_OVERRIDES[_id] = (
+        False,
+        f"Plain entry ({_n}., no asterisk) in the Latin editio altera 2004 "
+        "print, visually verified on the page scan; the Italian (CEI) edition "
+        "marks the entry with an asterisk.",
+    )
 
 # Entries present in the editio altera 2004 print but absent from the
 # digitized "with IDs" workbook (see docs/canonicalization-report.md). Both

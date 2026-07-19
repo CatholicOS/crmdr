@@ -277,7 +277,7 @@
 | 21 | 5 | `mr:1021-severinus` |  | FR |  |
 | 21 | 6 | `mr:1021-cilinia` |  | FR |  |
 | 21 | 7 | `mr:1021-viator` |  | FR |  |
-| 21 | 8 | `mr:1021-wendelinus` |  | DE |  |
+| 21 | 8 | `mr:1021-wendelinus` | * | DE | Asterisked entry (8*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk. |
 | 21 | 9 | `mr:1021-maurontus` | * | FR |  |
 | 21 | 10 | `mr:1021-petrus-capucci` | * | IT |  |
 | 21 | 11 | `mr:1021-petrus-yu-tae-ch` |  | KR |  |
@@ -345,7 +345,7 @@
 | 26 | 4 | `mr:1026-rusticus` |  | FR |  |
 | 26 | 5 | `mr:1026-aptonius` | * | FR |  |
 | 26 | 6 | `mr:1026-cedda` | * | GB |  |
-| 26 | 7 | `mr:1026-eata` |  | GB |  |
+| 26 | 7 | `mr:1026-eata` | * | GB | Asterisked entry (7*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk. |
 | 26 | 8 | `mr:1026-sigebaldus` | * | FR |  |
 | 26 | 9 | `mr:1026-witta` | * | DE |  |
 | 26 | 10 | `mr:1026-beanus` | * | GB |  |

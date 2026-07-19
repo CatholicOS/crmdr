@@ -30,7 +30,7 @@
 | 2 | 5 | `mr:0802-centolla` |  | ES |  |
 | 2 | 6 | `mr:0802-maximus` |  | IT |  |
 | 2 | 7 | `mr:0802-serenus` | * | FR |  |
-| 2 | 8 | `mr:0802-betharius` |  | FR |  |
+| 2 | 8 | `mr:0802-betharius` | * | FR | Asterisked entry (8*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk. |
 | 2 | 9 | `mr:0802-petrus` | * | ES |  |
 | 2 | 10 | `mr:0802-ioanna` | * | ES |  |
 | 2 | 11 | `mr:0802-philippus-a-iesu-munarriz-azcona-et-socii` | * | ES |  |
@@ -87,7 +87,7 @@
 | 7 | 4 | `mr:0807-donatus-aretii` |  | IT |  |
 | 7 | 5 | `mr:0807-donatianus` |  | FR |  |
 | 7 | 6 | `mr:0807-victricius` |  | FR |  |
-| 7 | 7 | `mr:0807-donatus-vesontione` |  | FR |  |
+| 7 | 7 | `mr:0807-donatus-vesontione` | * | FR | Asterisked entry (7*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk. |
 | 7 | 8 | `mr:0807-iordanus-forzate` | * | IT |  |
 | 7 | 9 | `mr:0807-albertus-de-abbatibus` | * | IT |  |
 | 7 | 10 | `mr:0807-albertus` | * | IT |  |
@@ -167,7 +167,7 @@
 | 12 | 8 | `mr:0812-carolus-meehan` | * | GB |  |
 | 12 | 9 | `mr:0812-innocentius-xi` | * | IT |  |
 | 12 | 10 | `mr:0812-petrus-jarrige-de-la-morelie-de-puyredon` | * | FR |  |
-| 12 | 11 | `mr:0812-iacobus` | * | VN |  |
+| 12 | 11 | `mr:0812-iacobus` |  | VN | Plain entry (11., no asterisk) in the Latin editio altera 2004 print, visually verified on the page scan; the Italian (CEI) edition marks the entry with an asterisk. |
 | 12 | 12 | `mr:0812-victoria-diez-y-bustos-de-molina` | * | ES |  |
 | 12 | 13 | `mr:0812-flavius-argueso-gonzalez` | * | ES |  |
 | 12 | 14 | `mr:0812-sebastianus-calvo-martinez-et-socii` | * | ES |  |
@@ -314,7 +314,7 @@
 | 21 | 8 | `mr:0821-privatus` |  | FR |  |
 | 21 | 9 | `mr:0821-sidonius-apollinaris` |  | FR |  |
 | 21 | 10 | `mr:0821-bernardus` | * | ES |  |
-| 21 | 11 | `mr:0821-iosephus` | * | VN |  |
+| 21 | 11 | `mr:0821-iosephus` |  | VN | Plain entry (11., no asterisk) in the Latin editio altera 2004 print, visually verified on the page scan; the Italian (CEI) edition marks the entry with an asterisk. |
 | 21 | 12 | `mr:0821-victoria-rasoamanarivo` | * | MG |  |
 | 21 | 13 | `mr:0821-salvator-estrugo-solves` | * | ES |  |
 | 21 | 14 | `mr:0821-raymundus-peiro-victori` | * | ES |  |

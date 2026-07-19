@@ -42,9 +42,30 @@ workbook, whose reviewer comments document their numbering across editions):
   Italian (CEI) edition and in Mons. Barba's Word transcription (Bl. M. González García,
   canonized 2016: status change with no ID change, as intended)
 
-**Per-edition asterisk discrepancy**: mr:0323-rebecca-de-himlaya (3/23 voce 11) carries
-no asterisk in the Latin print or in Mons. Barba's Word transcription, but is asterisked
-in the Italian (CEI) edition; the registry follows the Latin print (no asterisk), with a note.
+**Per-edition asterisk discrepancies (29)**: the registry follows the Latin print; each
+affected entry carries a note. All were counter-verified against the page scans of the
+Vatican print (July 2026): presence claims via the OCR text layer with visual spot-checks
+(sancti Servuli 4\*, sancti Wendelini 8\*, sancti Gohardi 7\* confirmed on scan), and every
+absence claim visually confirmed on the scan (clean bold numbers with asterisked
+neighbouring entries ruling out OCR dropout).
+
+Asterisked in the Latin print, no asterisk in the CEI edition (23):
+mr:0104-ferreolus (4\*), mr:0104-rigomerus (5\*), mr:0104-pharaildis (7\*),
+mr:0122-ladislaus-batthyany-strattmann (15\*), mr:0502-boleslaus-strzelecki (12\*),
+mr:0512-imelda-lambertini (10\*), mr:0524-servulus (4\*), mr:0611-bardo (4\*),
+mr:0624-gohardus (7\*) — note: the earlier draft called this entry "Goardo" without a date;
+it is Gohardus of Nantes at June 24, not Goar of the Rhine (July 6, plain 7.) nor
+Agoardus (June 24, plain 4.), both of which were visually confirmed unasterisked —
+mr:0711-leontius (5\*), mr:0718-tarsicia-mackiv (13\*), mr:0730-godeleva (6\*),
+mr:0802-betharius (8\*), mr:0807-donatus-vesontione (7\*),
+mr:0909-franciscus-garate-aranguren (10\*), mr:1021-wendelinus (8\*), mr:1026-eata (7\*),
+mr:1103-libertinus (3\*), mr:1103-odrada (10\*), mr:1118-theofredus (6\*),
+mr:1119-eudo (6\*), mr:1215-marinus (3\*), mr:1230-egwinus (7\*).
+
+Plain in the Latin print, asterisked in the CEI edition (6):
+mr:0323-rebecca-de-himlaya (11.), mr:0812-iacobus (11., Nam Định martyrs),
+mr:0821-iosephus (11., Hưng Yên), mr:1201-domnolus (5.), mr:1203-lucius (5., Chur),
+mr:1212-simon-phan (11., Phan Đắc Hòa).
 
 **Slug correction**: the workbook ID mr:0206-paulus-mikus-et-socii is corrected on
 extraction to mr:0206-paulus-miki-et-socii — surnames are not latinized unless an

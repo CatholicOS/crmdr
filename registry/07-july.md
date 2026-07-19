@@ -141,7 +141,7 @@
 | 11 | 2 | `mr:0711-pius-i` |  | IT |  |
 | 11 | 3 | `mr:0711-marcianus` |  | TR |  |
 | 11 | 4 | `mr:0711-marciana` |  | DZ |  |
-| 11 | 5 | `mr:0711-leontius` |  | FR |  |
+| 11 | 5 | `mr:0711-leontius` | * | FR | Asterisked entry (5*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk. |
 | 11 | 6 | `mr:0711-drostanus` | * | GB |  |
 | 11 | 7 | `mr:0711-placidus` | * | CH |  |
 | 11 | 8 | `mr:0711-hidulphus` | * | FR |  |
@@ -265,7 +265,7 @@
 | 18 | 10 | `mr:0718-simon-de-lipnica` | * | PL |  |
 | 18 | 11 | `mr:0718-ioannes-baptista-de-bruxelles` | * | FR |  |
 | 18 | 12 | `mr:0718-dominicus-nicolaus` |  | VN |  |
-| 18 | 13 | `mr:0718-tarsicia-mackiv` |  | UA |  |
+| 18 | 13 | `mr:0718-tarsicia-mackiv` | * | UA | Asterisked entry (13*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk. |
 | 19 | 1 | `mr:0719-epaphra` |  | TR |  |
 | 19 | 2 | `mr:0719-macedonius-et-socii` |  | TR |  |
 | 19 | 3 | `mr:0719-macrina` |  | TR |  |
@@ -449,7 +449,7 @@
 | 30 | 3 | `mr:0730-iulitta` |  | TR |  |
 | 30 | 4 | `mr:0730-maxima-et-socii` |  | TN |  |
 | 30 | 5 | `mr:0730-ursus` |  | FR |  |
-| 30 | 6 | `mr:0730-godeleva` |  | BE |  |
+| 30 | 6 | `mr:0730-godeleva` | * | BE | Asterisked entry (6*) in the Latin editio altera 2004 print; the Italian (CEI) edition carries no asterisk. |
 | 30 | 7 | `mr:0730-mannis-guzman` | * | ES |  |
 | 30 | 8 | `mr:0730-eduardus-powell-et-socii` | * | GB |  |
 | 30 | 9 | `mr:0730-iosephus-yuan-gengyin` |  | CN |  |
