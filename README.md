@@ -24,6 +24,19 @@ mr:MMDD-slug
 
 Examples: simple names (`mr:0101-basilius`), religious-name titles (`mr:0731-ignatius-de-loyola`, `mr:0128-thomas-de-aquino`), *cognomento* epithets (`mr:0730-petrus-chrysologus`), joined pairs (`mr:0926-cosmas-et-damianus`), companion groups (`mr:0206-paulus-miki-et-socii`), Marian invocations (`mr:0211-maria-de-lourdes`), and manual overrides for Christological and liturgical feasts (`mr:0806-transfiguratio-domini`).
 
+### Owner segments for proper eulogies (proposal)
+
+The Praenotanda of the Martyrologium Romanum (n. 38, as amended by the decree *Postquam Summus Pontifex*, 2021) foresee *Propria Martyrologii* of nations, dioceses and religious families. Eulogies **absent from the universal Martyrology** would receive IDs with an owner segment naming the registry that defines the owner:
+
+```
+mr:MMDD-slug                              universal (editio typica) — as above
+mr:it:MMDD-slug                           national proprium (bare ISO 3166-1 alpha-2)
+mr:cecdr/<circumscription>:MMDD-slug      diocesan/eparchial proprium
+mr:ciclsaldr/<institute>:MMDD-slug        religious-family proprium
+```
+
+The circumscription and institute keys are the canonical IDs of the [Common Ecclesiastical Circumscription Data Repository](https://github.com/CatholicOS/cecdr) and of the [Common Institutes of Consecrated Life and Societies of Apostolic Life Data Repository](https://github.com/CatholicOS/ciclsaldr), without their own prefixes — e.g. `mr:cecdr/us-boston:0705-…`, `mr:ciclsaldr/ofm:0824-…`. A proprium that merely amplifies, moves or re-grades the eulogy of a saint already in the universal Martyrology does **not** create a new identity: those variations are per-proprium attributes of the existing `mr:` ID, just as entry number and asterisk are per-edition attributes. `MMDD` anchors to the proprium's own Dicastery-confirmed text.
+
 The full derivation rules, the manual feast overrides, the leap-day (February 29) identity decisions, the anonymous-group slugs, the same-day collision resolutions, and the cross-edition verification work are documented in [docs/canonicalization-report.md](docs/canonicalization-report.md).
 
 > **Note:** all IDs in this repository are **drafts pending committee review**. The namespace prefix and the anchor-edition choice are placeholders; changing either is a mechanical rewrite.

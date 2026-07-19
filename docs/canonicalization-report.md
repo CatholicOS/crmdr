@@ -319,6 +319,34 @@ committee decision on whether (and under what namespace) eulogies of diocesan, n
 and religious-family propria should receive canonical IDs, parallel to how the CLEDR
 treats proper liturgical calendars.
 
+## Proper eulogies and owner namespaces (proposal)
+
+Principle: **a proprium that amplifies, moves or re-grades the eulogy of a saint
+already in the universal Martyrology does not create a new identity** — n. 38's
+"diverso die celebrentur vel alio gradu celebrationis peragantur vel quorum elogium…
+amplificare visum est" describes per-proprium *attributes* of the existing `mr:` ID,
+exactly as entry number and asterisk are per-edition attributes. Only eulogies absent
+from the universal Martyrology receive proper IDs, with an owner segment:
+
+- `mr:MMDD-slug` — universal (editio typica); the existing 4,639 IDs, unchanged;
+- `mr:<iso2>:MMDD-slug` — national proprium; the bare two-letter alphabetic segment is
+  reserved for ISO 3166-1 alpha-2 codes (`mr:it:…`), consistent with the country codes
+  already used in this registry;
+- `mr:cecdr/<circumscription>:MMDD-slug` — diocesan or eparchial proprium, keyed by the
+  [CECDR](https://github.com/CatholicOS/cecdr) canonical ID without its prefix
+  (`mr:cecdr/us-boston:…`);
+- `mr:ciclsaldr/<institute>:MMDD-slug` — religious-family proprium, keyed by the
+  [CICLSALDR](https://github.com/CatholicOS/ciclsaldr) canonical ID without its prefix
+  (`mr:ciclsaldr/ofm:…`), owned by an institute or by a family grouping
+  (`mr:ciclsaldr/familia-franciscana:…`).
+
+`MMDD` in a proper ID anchors to the proprium's own text as confirmed by the Dicastery
+(the confirmation n. 38 requires guarantees a citable official act). Owner segments are
+syntactically unambiguous: four digits = placement, two alphabetic letters = ISO
+nation, `registry/key` = a CatholicOS registry key. All of this is a draft for
+committee review, to be decided together with the namespace prefixes of the three
+registries (`mr:` / `circ:` / `icl:`).
+
 ## Known caveats for the committee
 
 - Rare genitives with no safe rule remain in genitive form (single-occurrence Greek
