@@ -32,9 +32,29 @@ MONTH_NAMES_EN = [
     "July", "August", "September", "October", "November", "December",
 ]
 
+# IDs in the workbook that violate the canonicalization rules and are
+# corrected on extraction. Surnames are not latinized unless an already
+# well-known Latin form exists: "Miki" is a Japanese surname with no such form.
+ID_CORRECTIONS = {
+    "mr:0206-paulus-mikus-et-socii": "mr:0206-paulus-miki-et-socii",
+}
+
+# Asterisk overrides where the digitized workbook follows the Italian (CEI)
+# edition but the anchor edition (the Latin editio altera 2004 print) differs.
+# Each maps an ID to (asterisk_in_latin_print, note).
+ASTERISK_OVERRIDES = {
+    "mr:0323-rebecca-de-himlaya": (
+        False,
+        "No asterisk in the Latin editio altera 2004 print or in Mons. Barba's "
+        "Word transcription; the Italian (CEI) edition marks the entry with an "
+        "asterisk.",
+    ),
+}
+
 # Entries present in the editio altera 2004 print but absent from the
-# digitized workbook (see docs/canonicalization-report.md). The `print_entry`
-# is the asterisked entry number in the Vatican print.
+# digitized "with IDs" workbook (see docs/canonicalization-report.md). Both
+# are present in the parallel-texts workbook, whose reviewer comments document
+# their numbering across editions.
 PRINT_ONLY_ENTRIES = [
     {
         "id": "mr:0104-abrunculus",
@@ -42,9 +62,10 @@ PRINT_ONLY_ENTRIES = [
         "day": 4,
         "entry": None,
         "asterisk": True,
-        "country": None,
-        "note": "Present in the editio altera 2004 print (entry 2*) but absent "
-                "from the digitized workbook and the CEI-based transcription.",
+        "country": "FR",
+        "note": "Entry 2* in the Latin editio altera 2004 print; absent from "
+                "the Italian (CEI) edition, from Mons. Barba's Word "
+                "transcription, and from the digitized workbook.",
     },
     {
         "id": "mr:0104-emmanuel-gonzalez-garcia",
@@ -52,11 +73,12 @@ PRINT_ONLY_ENTRIES = [
         "day": 4,
         "entry": None,
         "asterisk": True,
-        "country": None,
-        "note": "Present in the editio altera 2004 print (entry 12*) but absent "
-                "from the digitized workbook and the CEI-based transcription. "
-                "Bl. Manuel González García was canonized in 2016: status change "
-                "with no ID change.",
+        "country": "ES",
+        "note": "Numbered 12* in the Latin editio altera 2004 print, 11* in "
+                "the Italian (CEI) edition and in Mons. Barba's Word "
+                "transcription; absent from the digitized workbook. "
+                "Bl. Manuel González García was canonized in 2016: status "
+                "change with no ID change.",
     },
 ]
 
@@ -90,14 +112,19 @@ def extract(workbook_path):
                 continue
             paese = str(paese).strip() if paese is not None else ""
             country = iso[paese] if paese else None
-            rows.append({
-                "id": str(mr_id).strip(),
+            mr_id = str(mr_id).strip()
+            mr_id = ID_CORRECTIONS.get(mr_id, mr_id)
+            row_out = {
+                "id": mr_id,
                 "month": month_index,
                 "day": int(str(giorno)),
                 "entry": int(str(voce)),
                 "asterisk": asterisk == "*",
                 "country": country,
-            })
+            }
+            if mr_id in ASTERISK_OVERRIDES:
+                row_out["asterisk"], row_out["note"] = ASTERISK_OVERRIDES[mr_id]
+            rows.append(row_out)
 
     # Merge duplicate IDs (the leap-day elogia): keep the Feb 29 placement as
     # primary and record the other placement in `also_on`.

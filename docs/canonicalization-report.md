@@ -34,10 +34,21 @@ ONE identity each, anchored at 0229; the Feb 28 rows bear the same ID:
 - mr:0229-antonia-de-florentia (also at Feb 28, voce 6)
 - mr:0229-augustus-chapdelaine (also at Feb 28, voce 7)
 
-**Editio-altera-only entries** (no row in the CEI-based workbook):
-- mr:0104-abrunculus — print entry 2*, absent from the CEI and from the Word transcription
-- mr:0104-emmanuel-gonzalez-garcia — print entry 12*, absent from the CEI (Bl. M. González García, canonized 2016:
-  status change with no ID change, as intended)
+**Entries absent from the "with IDs" workbook** (both present in the parallel-texts
+workbook, whose reviewer comments document their numbering across editions):
+- mr:0104-abrunculus — entry 2* in the Latin print, absent from the Italian (CEI)
+  edition and from Mons. Barba's Word transcription
+- mr:0104-emmanuel-gonzalez-garcia — entry 12* in the Latin print, numbered 11* in the
+  Italian (CEI) edition and in Mons. Barba's Word transcription (Bl. M. González García,
+  canonized 2016: status change with no ID change, as intended)
+
+**Per-edition asterisk discrepancy**: mr:0323-rebecca-de-himlaya (3/23 voce 11) carries
+no asterisk in the Latin print or in Mons. Barba's Word transcription, but is asterisked
+in the Italian (CEI) edition; the registry follows the Latin print (no asterisk), with a note.
+
+**Slug correction**: the workbook ID mr:0206-paulus-mikus-et-socii is corrected on
+extraction to mr:0206-paulus-miki-et-socii — surnames are not latinized unless an
+already well-known Latin form exists (rule 5's example shows the intended form).
 
 **Repaired source text**: the Word transcription's 3-20 v1 was truncated; the la cell was
 restored from the print (Commemoratio sancti Archippi...). ID: mr:0320-archippus.

@@ -76,7 +76,7 @@
 | 5 | 10 | `mr:0205-francisca-meziere` | * | FR |  |
 | 5 | 11 | `mr:0205-elisabeth-canori-mora` | * | IT |  |
 | 5 | 12 | `mr:0205-iesu-mendez` |  | MX |  |
-| 6 | 1 | `mr:0206-paulus-mikus-et-socii` |  | JP |  |
+| 6 | 1 | `mr:0206-paulus-miki-et-socii` |  | JP |  |
 | 6 | 2 | `mr:0206-antolianus` |  | FR |  |
 | 6 | 3 | `mr:0206-silvanus` |  | SY |  |
 | 6 | 4 | `mr:0206-dorothea` |  | TR |  |

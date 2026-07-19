@@ -22,7 +22,7 @@ mr:MMDD-slug
 - **`MMDD`** — the month and day that anchor the eulogy's placement in the editio typica altera 2004;
 - **`slug`** — the Latin nominative lemma of the first-named subject of the eulogy, ASCII-folded, lowercase, without honorifics (no *sanctus*/*beatus*).
 
-Examples: simple names (`mr:0101-basilius`), religious-name titles (`mr:0731-ignatius-de-loyola`, `mr:0128-thomas-de-aquino`), *cognomento* epithets (`mr:0730-petrus-chrysologus`), joined pairs (`mr:0926-cosmas-et-damianus`), companion groups (`mr:0206-paulus-mikus-et-socii`), Marian invocations (`mr:0211-maria-de-lourdes`), and manual overrides for Christological and liturgical feasts (`mr:0806-transfiguratio-domini`).
+Examples: simple names (`mr:0101-basilius`), religious-name titles (`mr:0731-ignatius-de-loyola`, `mr:0128-thomas-de-aquino`), *cognomento* epithets (`mr:0730-petrus-chrysologus`), joined pairs (`mr:0926-cosmas-et-damianus`), companion groups (`mr:0206-paulus-miki-et-socii`), Marian invocations (`mr:0211-maria-de-lourdes`), and manual overrides for Christological and liturgical feasts (`mr:0806-transfiguratio-domini`).
 
 The full derivation rules, the manual feast overrides, the leap-day (February 29) identity decisions, the anonymous-group slugs, and the same-day collision resolutions are documented in [docs/canonicalization-report.md](docs/canonicalization-report.md).
 

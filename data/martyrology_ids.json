@@ -434,8 +434,8 @@
       "day": 4,
       "entry": null,
       "asterisk": true,
-      "country": null,
-      "note": "Present in the editio altera 2004 print (entry 2*) but absent from the digitized workbook and the CEI-based transcription."
+      "country": "FR",
+      "note": "Entry 2* in the Latin editio altera 2004 print; absent from the Italian (CEI) edition, from Mons. Barba's Word transcription, and from the digitized workbook."
     },
     {
       "id": "mr:0104-emmanuel-gonzalez-garcia",
@@ -443,8 +443,8 @@
       "day": 4,
       "entry": null,
       "asterisk": true,
-      "country": null,
-      "note": "Present in the editio altera 2004 print (entry 12*) but absent from the digitized workbook and the CEI-based transcription. Bl. Manuel González García was canonized in 2016: status change with no ID change."
+      "country": "ES",
+      "note": "Numbered 12* in the Latin editio altera 2004 print, 11* in the Italian (CEI) edition and in Mons. Barba's Word transcription; absent from the digitized workbook. Bl. Manuel González García was canonized in 2016: status change with no ID change."
     },
     {
       "id": "mr:0105-syncletica",
@@ -3735,7 +3735,7 @@
       "country": "MX"
     },
     {
-      "id": "mr:0206-paulus-mikus-et-socii",
+      "id": "mr:0206-paulus-miki-et-socii",
       "month": 2,
       "day": 6,
       "entry": 1,
@@ -7743,8 +7743,9 @@
       "month": 3,
       "day": 23,
       "entry": 11,
-      "asterisk": true,
-      "country": "LB"
+      "asterisk": false,
+      "country": "LB",
+      "note": "No asterisk in the Latin editio altera 2004 print or in Mons. Barba's Word transcription; the Italian (CEI) edition marks the entry with an asterisk."
     },
     {
       "id": "mr:0323-methodius-dominicus-trcka",

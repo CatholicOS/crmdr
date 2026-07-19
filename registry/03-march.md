@@ -251,7 +251,7 @@
 | 23 | 8 | `mr:0323-petrus-higgins` | * | IE |  |
 | 23 | 9 | `mr:0323-iosephus-oriol` |  | ES |  |
 | 23 | 10 | `mr:0323-annuntiata-cocchetti` | * | IT |  |
-| 23 | 11 | `mr:0323-rebecca-de-himlaya` | * | LB |  |
+| 23 | 11 | `mr:0323-rebecca-de-himlaya` |  | LB | No asterisk in the Latin editio altera 2004 print or in Mons. Barba's Word transcription; the Italian (CEI) edition marks the entry with an asterisk. |
 | 23 | 12 | `mr:0323-methodius-dominicus-trcka` | * | SK |  |
 | 24 | 1 | `mr:0324-timolaus-et-socii` |  | PS |  |
 | 24 | 2 | `mr:0324-secundulus` |  | DZ |  |

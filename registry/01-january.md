@@ -57,8 +57,8 @@
 | 4 | 8 | `mr:0104-christiana-menabuoi` | * | IT |  |
 | 4 | 9 | `mr:0104-thomas-plumtree` | * | GB |  |
 | 4 | 10 | `mr:0104-elisabeth-anna-seton` |  | US |  |
-| 4 | — | `mr:0104-abrunculus` | * |  | Present in the editio altera 2004 print (entry 2*) but absent from the digitized workbook and the CEI-based transcription. |
-| 4 | — | `mr:0104-emmanuel-gonzalez-garcia` | * |  | Present in the editio altera 2004 print (entry 12*) but absent from the digitized workbook and the CEI-based transcription. Bl. Manuel González García was canonized in 2016: status change with no ID change. |
+| 4 | — | `mr:0104-abrunculus` | * | FR | Entry 2* in the Latin editio altera 2004 print; absent from the Italian (CEI) edition, from Mons. Barba's Word transcription, and from the digitized workbook. |
+| 4 | — | `mr:0104-emmanuel-gonzalez-garcia` | * | ES | Numbered 12* in the Latin editio altera 2004 print, 11* in the Italian (CEI) edition and in Mons. Barba's Word transcription; absent from the digitized workbook. Bl. Manuel González García was canonized in 2016: status change with no ID change. |
 | 5 | 1 | `mr:0105-syncletica` |  | EG |  |
 | 5 | 2 | `mr:0105-deogratias` |  | TN |  |
 | 5 | 3 | `mr:0105-aemiliana` |  | IT |  |
