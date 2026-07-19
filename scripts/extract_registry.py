@@ -41,9 +41,10 @@ ID_CORRECTIONS = {
 
 # Asterisk overrides where the digitized workbook follows the Italian (CEI)
 # edition but the anchor edition (the Latin editio altera 2004 print) differs.
-# All were verified against the page scans of the Vatican print (2026-07):
-# asterisk-presence claims via the OCR text layer with visual spot-checks,
-# asterisk-absence claims each visually confirmed on the scan.
+# All were verified against the page scans of BOTH printed editions (2026-07),
+# independently of the workbook: asterisk-presence claims via the OCR text
+# layer with visual spot-checks, asterisk-absence claims each visually
+# confirmed on the scan of the edition concerned.
 
 # Entries asterisked in the Latin print but not in the CEI edition (nor in the
 # workbook). Maps ID -> entry number as printed in the Latin editio altera.

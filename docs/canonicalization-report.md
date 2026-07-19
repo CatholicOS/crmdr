@@ -43,11 +43,19 @@ workbook, whose reviewer comments document their numbering across editions):
   canonized 2016: status change with no ID change, as intended)
 
 **Per-edition asterisk discrepancies (29)**: the registry follows the Latin print; each
-affected entry carries a note. All were counter-verified against the page scans of the
-Vatican print (July 2026): presence claims via the OCR text layer with visual spot-checks
-(sancti Servuli 4\*, sancti Wendelini 8\*, sancti Gohardi 7\* confirmed on scan), and every
-absence claim visually confirmed on the scan (clean bold numbers with asterisked
-neighbouring entries ruling out OCR dropout).
+affected entry carries a note. All were counter-verified against the page scans of BOTH
+editions (July 2026), independently of the digitized workbook:
+
+- *Latin editio altera 2004 print*: presence claims via the OCR text layer with visual
+  spot-checks (sancti Servuli 4\*, sancti Wendelini 8\*, sancti Gohardi 7\* confirmed on
+  scan), and every absence claim visually confirmed on the scan (clean bold numbers with
+  asterisked neighbouring entries ruling out OCR dropout).
+- *Italian (CEI) edition print*: all 23 claimed unasterisked entries visually confirmed
+  as plain numbers on the scans (each adjacent to cleanly printed asterisked entries),
+  and all 6 claimed asterisked entries confirmed (Rebecca 11\* and the Nam Định martyrs
+  11\* visually; the remaining four via the OCR text layer, where asterisk presence is
+  reliable). The workbook's CEI digitization is therefore fully corroborated for these
+  entries: no transcription taint detected.
 
 Asterisked in the Latin print, no asterisk in the CEI edition (23):
 mr:0104-ferreolus (4\*), mr:0104-rigomerus (5\*), mr:0104-pharaildis (7\*),
