@@ -287,6 +287,38 @@ corrected on extraction to mr:0331-guido — the elogium's first-named subject i
 Guido, abbot; "Domninus" comes from the place name (Burgi Sancti Domníni, Borgo San
 Donnino, today Fidenza). No collision on the day.
 
+## Post-2004 official variations
+
+The Dicastery's page for the Martyrologium Romanum
+(cultodivino.va → pubblicazioni → libri liturgici → aliæ) lists a single official act
+issued after the editio typica altera 2004:
+
+> Congregatio de Cultu Divino et Disciplina Sacramentorum, Decretum *Postquam Summus
+> Pontifex*, Variationes. XXI octobris 2021 (Prot. N. 394/21) in Notitiae 57 (2021), 222.
+
+Inspection of the published text (Notitiae 57, p. 222) shows the Variationes touch only
+the **Praenotanda**, not the elogia:
+
+- **V. De Propriis Martyrologii, n. 38** — dioceses, nations and religious families may
+  prepare a *Proprium Martyrologii seu Appendix Martyrologii* for their proper Saints and
+  Blesseds (absent from the Martyrologium Romanum, or celebrated on a different day, at a
+  different grade, or with a somewhat amplified elogium), to be transmitted to the
+  Dicastery for review and confirmation.
+- **VI. De aptationibus quæ Conferentiis Episcoporum competunt, n. 41** — in Conference
+  editions, elogia proper to the whole nation by concession of the Holy See are placed
+  first after the elogia of General-Calendar celebrations and printed in the same type,
+  while regional or diocesan elogia always go in a particular Appendix; Conference
+  edition texts are approved ad normam iuris and submitted to the Apostolic See for
+  confirmation (the same holding, mutatis mutandis, for religious families).
+
+**Impact on the registry: none.** No elogium is added, removed, repositioned or
+re-graded by the decree, so no canonical ID is affected; the editio typica altera 2004
+remains the anchor. The decree is nonetheless relevant to the registry's future scope:
+the *Propria Martyrologii / Appendix* framework it regulates is the natural home for a
+committee decision on whether (and under what namespace) eulogies of diocesan, national
+and religious-family propria should receive canonical IDs, parallel to how the CLEDR
+treats proper liturgical calendars.
+
 ## Known caveats for the committee
 
 - Rare genitives with no safe rule remain in genitive form (single-occurrence Greek
