@@ -1,0 +1,44 @@
+# Catholic Open Source CRMDR Project
+
+The home of the **Common Roman Martyrology Data Repository** curated by the Catholic Open Source organization.
+
+## What is CRMDR?
+
+The Catholic Open Source Common Roman Martyrology Data Repository (CRMDR) provides a canonicalized list of identifiers for the eulogies (elogia) of the [Roman Martyrology](https://en.wikipedia.org/wiki/Roman_Martyrology) (*Martyrologium Romanum*), the official martyrology of the Roman Rite.
+
+The [Editio Typica](https://en.wikipedia.org/wiki/Editio_typica) of the Roman Martyrology is the official source for its eulogies, and all language editions of the Roman Martyrology are based off of the Latin Editio Typica published by the [Dicastery for Divine Worship and the Discipline of the Sacraments](https://www.cultodivino.va/en.html). The current reference edition is the **editio typica altera (2004)**, which anchors the identifiers in this repository.
+
+The Roman Martyrology is a living source: eulogies are added with new canonizations and beatifications, and existing eulogies can be revised or repositioned from one edition to the next. The CRMDR will therefore need to be revised with each new edition (and with Decrees of the Dicastery that touch the Martyrology). Each edition's actual entry number, asterisk marker, and calendar placement are per-edition attributes, not part of the identity: an eulogy keeps its canonical ID across editions. Editions shall be referred to via their canonicalized ids as set in the [Common Roman Missal Editio Typica Data Repository](https://github.com/CatholicOS/crmetdr) pattern, and liturgical celebrations that correspond to martyrology eulogies can be cross-referenced with the [Common Liturgical Events Data Repository](https://github.com/CatholicOS/cledr).
+
+## The identifier scheme
+
+Identifiers take the form:
+
+```
+mr:MMDD-slug
+```
+
+- **`mr:`** — namespace prefix for the Roman Martyrology (placeholder pending committee decision);
+- **`MMDD`** — the month and day that anchor the eulogy's placement in the editio typica altera 2004;
+- **`slug`** — the Latin nominative lemma of the first-named subject of the eulogy, ASCII-folded, lowercase, without honorifics (no *sanctus*/*beatus*).
+
+Examples: simple names (`mr:0101-basilius`), religious-name titles (`mr:0731-ignatius-de-loyola`, `mr:0128-thomas-de-aquino`), *cognomento* epithets (`mr:0730-petrus-chrysologus`), joined pairs (`mr:0926-cosmas-et-damianus`), companion groups (`mr:0206-paulus-mikus-et-socii`), Marian invocations (`mr:0211-maria-de-lourdes`), and manual overrides for Christological and liturgical feasts (`mr:0806-transfiguratio-domini`).
+
+The full derivation rules, the manual feast overrides, the leap-day (February 29) identity decisions, the anonymous-group slugs, and the same-day collision resolutions are documented in [docs/canonicalization-report.md](docs/canonicalization-report.md).
+
+> **Note:** all IDs in this repository are **drafts pending committee review**. The namespace prefix and the anchor-edition choice are placeholders; changing either is a mechanical rewrite.
+
+## Repository contents
+
+- [`data/martyrology_ids.json`](data/martyrology_ids.json) — the machine-readable registry: 4,639 canonical IDs with their calendar placement (month, day, entry position within the day), asterisk marker, and the ISO 3166-1 alpha-2 code of the modern country corresponding to the place of the eulogy.
+- [`registry/`](registry/) — human-readable per-month tables of the same data.
+- [`docs/canonicalization-report.md`](docs/canonicalization-report.md) — the canonicalization methodology and the special identity decisions.
+- [`scripts/extract_registry.py`](scripts/extract_registry.py) — the script that generates the registry from the (private) digitization workbook.
+
+## Copyright and the absence of texts
+
+The texts of the eulogies of the Roman Martyrology — in Latin and in the various language editions — are copyrighted (© Dicastery for Divine Worship and the Discipline of the Sacraments / national episcopal conferences for the vernacular editions) and are **not** included in this repository. What is included here is only the non-copyrightable structural registry: the canonical identifiers and factual metadata about placement. Citation-length incipits appear in the methodology report solely to identify entries, following standard scholarly practice.
+
+## Work in Progress
+
+The goal is to establish a unified, canonical identifier system for the eulogies of the Roman Martyrology that can serve as a reference for interoperability between different liturgical applications — martyrology readers, liturgical calendar APIs such as the [Liturgical Calendar API](https://github.com/Liturgical-Calendar/LiturgicalCalendarAPI), and digital editions — in the same way that the [CLEDR](https://github.com/CatholicOS/cledr) does for liturgical celebrations of the Roman Missal.
