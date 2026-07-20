@@ -240,7 +240,7 @@
 | 19 | 9 | `mr:0219-alvarus` | * | ES |  |
 | 19 | 10 | `mr:0219-elisabeth-picenardi` | * | IT |  |
 | 19 | 11 | `mr:0219-lucia-yus-zhenmei` |  | CN |  |
-| 19 | 12 | `mr:0219-iosephus-zap-ata` | * | DE |  |
+| 19 | 12 | `mr:0219-iosephus-zaplata` | * | DE |  |
 | 20 | 1 | `mr:0220-serapion` |  | EG |  |
 | 20 | 2 | `mr:0220-quinque-martyres-tyri` |  | LB |  |
 | 20 | 3 | `mr:0220-tyrannion` |  | TR |  |

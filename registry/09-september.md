@@ -127,7 +127,7 @@
 | 8 | 17 | `mr:0908-paschalis-fortuno-almela` | * | ES |  |
 | 8 | 18 | `mr:0908-iosepha-a-sancto-ioanne-a-deo-ruano-garcia-et-maria-a-doloribus-a-sancta-eulalia-puig-bonany` | * | ES |  |
 | 8 | 19 | `mr:0908-adamus-bargielski` | * | DE |  |
-| 8 | 20 | `mr:0908-ladislaus-b-adzinski` | * | DE |  |
+| 8 | 20 | `mr:0908-ladislaus-bladzinski` | * | DE |  |
 | 9 | (1) | `mr:0909-petrus-claver` |  | CO |  |
 | 9 | 2 | `mr:0909-gorgonius` |  | IT |  |
 | 9 | 3 | `mr:0909-hyacinthus` |  | IT |  |

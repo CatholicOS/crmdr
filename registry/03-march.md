@@ -95,7 +95,7 @@
 | 8 | 10 | `mr:0308-duthacus` | * | GB |  |
 | 8 | 11 | `mr:0308-veremundus` | * | ES |  |
 | 8 | 12 | `mr:0308-stephanus` | * | FR |  |
-| 8 | 13 | `mr:0308-vincentius-kad-ubek` | * | PL |  |
+| 8 | 13 | `mr:0308-vincentius-kadlubek` | * | PL |  |
 | 8 | 14 | `mr:0308-faustinus-miguez` | * | ES |  |
 | 9 | (1) | `mr:0309-francisca` |  | IT |  |
 | 9 | 2 | `mr:0309-quadraginta-milites-sebastem` |  | TR |  |
@@ -334,4 +334,4 @@
 | 31 | 5 | `mr:0331-ioanna` | * | FR |  |
 | 31 | 6 | `mr:0331-bonaventura-de-foro-livii` | * | IT |  |
 | 31 | 7 | `mr:0331-christophorus-robinson` | * | GB |  |
-| 31 | 8 | `mr:0331-natalia-tu-asiewicz` | * | DE |  |
+| 31 | 8 | `mr:0331-natalia-tulasiewicz` | * | DE |  |

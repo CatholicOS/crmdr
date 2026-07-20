@@ -54,10 +54,20 @@ EN_M = re.compile(r"\b(Saints|Saint|St\.|Blesseds|Blessed)\s+([A-Z][\w'\-]+"
                   r"(?:\s+(?:of|the|de|and)\s+[A-Z][\w'\-]+|\s+[A-Z][\w'\-]+){0,3})")
 
 
+# Precomposed Latin letters whose diacritic is a stroke/bar rather than a
+# combining mark: NFKD does NOT decompose them, so they survive the combining
+# strip below and would otherwise be dropped to a blank by the [^a-z ] filter.
+# Mapped to their standard ASCII transliteration before folding (ł -> l, etc.).
+STROKE_LETTERS = str.maketrans({
+    'ł': 'l', 'ø': 'o', 'đ': 'd', 'ð': 'd', 'ħ': 'h', 'ŧ': 't', 'þ': 'th', 'ß': 'ss',
+})
+
+
 def fold(s):
     s = unicodedata.normalize('NFKD', s)
     s = ''.join(c for c in s if not unicodedata.combining(c))
-    return re.sub(r'[^a-z ]', ' ', s.lower().replace('æ', 'e').replace('œ', 'e').replace('j', 'i'))
+    s = s.lower().translate(STROKE_LETTERS).replace('æ', 'e').replace('œ', 'e').replace('j', 'i')
+    return re.sub(r'[^a-z ]', ' ', s)
 
 
 def display_from_slug(mrid):

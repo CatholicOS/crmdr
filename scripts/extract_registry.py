@@ -45,6 +45,23 @@ ID_CORRECTIONS = {
     # from the place name (Burgi Sancti Domnini, Borgo San Donnino, today
     # Fidenza). Rule 1: the slug is the first-named subject.
     "mr:0331-domninus": "mr:0331-guido",
+    # Polish ł/Ł (U+0142/U+0141) is a precomposed letter, not base l + a
+    # combining stroke, so NFKD normalization leaves it intact and the
+    # diacritic-folding step that produced the workbook slugs dropped it to a
+    # blank, splitting the surname (paw-owski). The standard ASCII
+    # transliteration is a plain l (Pawłowski -> pawlowski). The folding logic
+    # is fixed in extract_subjects.py; these entries correct the slugs the
+    # buggy fold already baked into the workbook.
+    "mr:0109-iosephus-paw-owski-et-casimirus-grelewskus": "mr:0109-iosephus-pawlowski-et-casimirus-grelewskus",
+    "mr:0219-iosephus-zap-ata": "mr:0219-iosephus-zaplata",
+    "mr:0308-vincentius-kad-ubek": "mr:0308-vincentius-kadlubek",
+    "mr:0331-natalia-tu-asiewicz": "mr:0331-natalia-tulasiewicz",
+    "mr:0719-achilles-pucha-a-et-hermannus-stepien": "mr:0719-achilles-puchala-et-hermannus-stepien",
+    "mr:0731-michael-ozieb-owski": "mr:0731-michael-ozieblowski",
+    "mr:0908-ladislaus-b-adzinski": "mr:0908-ladislaus-bladzinski",
+    "mr:1014-stanislaus-mysakowski-et-franciscus-ros-aniec": "mr:1014-stanislaus-mysakowski-et-franciscus-roslaniec",
+    "mr:1216-honoratus-de-bia-a-podlaska-kazminsky": "mr:1216-honoratus-de-biala-podlaska-kazminsky",
+    "mr:1219-maria-eva-de-providentia-noiszewska-et-maria-martha-de-iesu-wo-owsk": "mr:1219-maria-eva-de-providentia-noiszewska-et-maria-martha-de-iesu-wolowsk",
 }
 
 # Days whose opening elogia are printed as unnumbered drop-cap paragraphs in

@@ -172,7 +172,7 @@
 | 16 | 8 | `mr:1216-sebastianus-de-madiis` | * | IT |  |
 | 16 | 9 | `mr:1216-maria-ab-angelis-fontanella` | * | IT |  |
 | 16 | 10 | `mr:1216-clemens-marchisio` | * | IT |  |
-| 16 | 11 | `mr:1216-honoratus-de-bia-a-podlaska-kazminsky` | * | PL |  |
+| 16 | 11 | `mr:1216-honoratus-de-biala-podlaska-kazminsky` | * | PL |  |
 | 16 | 12 | `mr:1216-philippus-siphong-onphitak` | * | TH |  |
 | 17 | 1 | `mr:1217-modestus` |  | IL |  |
 | 17 | 2 | `mr:1217-quinquaginta-milites-eleutheropoli` |  | PS |  |
@@ -197,7 +197,7 @@
 | 19 | 3 | `mr:1219-gulielmus-de-fenolis` | * | IT |  |
 | 19 | 4 | `mr:1219-urbanus-v` | * | FR |  |
 | 19 | 5 | `mr:1219-franciscus-xaverius-ha-trong-mau-et-dominicus-buus-van-uy` |  | VN |  |
-| 19 | 6 | `mr:1219-maria-eva-de-providentia-noiszewska-et-maria-martha-de-iesu-wo-owsk` | * | PL |  |
+| 19 | 6 | `mr:1219-maria-eva-de-providentia-noiszewska-et-maria-martha-de-iesu-wolowsk` | * | PL |  |
 | 20 | 1 | `mr:1220-zephyrinus` |  | IT |  |
 | 20 | 2 | `mr:1220-liberalis` |  | IT |  |
 | 20 | 3 | `mr:1220-philogonius` |  | TR |  |

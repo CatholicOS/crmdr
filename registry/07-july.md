@@ -278,7 +278,7 @@
 | 19 | 10 | `mr:0719-ioannes-plessington` |  | GB |  |
 | 19 | 11 | `mr:0719-ioannes-baptista-zhou-wurui` |  | CN |  |
 | 19 | 12 | `mr:0719-elisabeth-qin-bianzhi` |  | CN |  |
-| 19 | 13 | `mr:0719-achilles-pucha-a-et-hermannus-stepien` | * | PL |  |
+| 19 | 13 | `mr:0719-achilles-puchala-et-hermannus-stepien` | * | PL |  |
 | 20 | (1) | `mr:0720-apollinaris` |  | IT |  |
 | 20 | 2 | `mr:0720-elias-thesbita` |  | IL |  |
 | 20 | 3 | `mr:0720-ioseph` |  | PS |  |
@@ -474,6 +474,6 @@
 | 31 | 13 | `mr:0731-iustinus-de-iacobis` |  | ET |  |
 | 31 | 14 | `mr:0731-dionysius-vicente-ramos` | * | ES |  |
 | 31 | 15 | `mr:0731-iacobus-buch-canals` | * | ES |  |
-| 31 | 16 | `mr:0731-michael-ozieb-owski` | * | DE |  |
+| 31 | 16 | `mr:0731-michael-ozieblowski` | * | DE |  |
 | 31 | 17 | `mr:0731-franciscus-stryjas` | * | PL |  |
 | 31 | 18 | `mr:0731-sidonia-schelingova` | * | SK |  |

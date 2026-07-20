@@ -190,7 +190,7 @@
 | 14 | 9 | `mr:1014-dominicus` | * | IT |  |
 | 14 | 10 | `mr:1014-iacobus-laigneau-de-langellerie` | * | FR |  |
 | 14 | 11 | `mr:1014-anna-maria-aranda-riera` | * | ES |  |
-| 14 | 12 | `mr:1014-stanislaus-mysakowski-et-franciscus-ros-aniec` | * | DE |  |
+| 14 | 12 | `mr:1014-stanislaus-mysakowski-et-franciscus-roslaniec` | * | DE |  |
 | 14 | 13 | `mr:1014-romanus-lysko` | * | UA |  |
 | 15 | (1) | `mr:1015-teresia-a-iesu` |  | ES |  |
 | 15 | 2 | `mr:1015-barsen` |  | TR |  |

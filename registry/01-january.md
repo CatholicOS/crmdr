@@ -120,7 +120,7 @@
 | 9 | 7 | `mr:0109-antonius-fatati` | * | IT |  |
 | 9 | 8 | `mr:0109-maria-teresia-a-iesu-le-clerc` | * | FR |  |
 | 9 | 9 | `mr:0109-agatha-yus` |  | KR |  |
-| 9 | 10 | `mr:0109-iosephus-paw-owski-et-casimirus-grelewskus` | * | DE |  |
+| 9 | 10 | `mr:0109-iosephus-pawlowski-et-casimirus-grelewskus` | * | DE |  |
 | 10 | 1 | `mr:0110-miltiades` |  | IT |  |
 | 10 | 2 | `mr:0110-paulus` |  | EG |  |
 | 10 | 3 | `mr:0110-gregorius` |  | TR |  |
