@@ -2,9 +2,9 @@
   "$comment": "Canonical ID registry for the eulogies of the Roman Martyrology. IDs are drafts pending committee review; see the README and docs/canonicalization-report.md. Entries with deprecated:true are attested only in historical editions (their MMDD anchors the placement in the edition named by attested_in); the deprecated status is itself a mechanical draft.",
   "anchor_edition": "martyrologium_romanum_editio_altera_2004",
   "id_scheme": "mr:MMDD-slug",
-  "entry_count": 5858,
+  "entry_count": 5857,
   "current_count": 4639,
-  "deprecated_count": 1219,
+  "deprecated_count": 1218,
   "entries": [
     {
       "id": "mr:0101-maria-dei-genetrix",
@@ -1586,7 +1586,7 @@
       "country": "IT"
     },
     {
-      "id": "mr:0115-aegidius",
+      "id": "mr:0115-petrus-de-castronovo",
       "month": 1,
       "day": 15,
       "entry": 12,
@@ -2101,7 +2101,7 @@
       "country": "IT"
     },
     {
-      "id": "mr:0120-bernardus",
+      "id": "mr:0120-cyprianus-iwene-tansi",
       "month": 1,
       "day": 20,
       "entry": 12,
@@ -2724,7 +2724,7 @@
       "country": "FR"
     },
     {
-      "id": "mr:0127-vitalis",
+      "id": "mr:0127-manfredus-settala",
       "month": 1,
       "day": 27,
       "entry": 10,
@@ -3150,7 +3150,7 @@
       "country": "FR"
     },
     {
-      "id": "mr:0131-victor",
+      "id": "mr:0131-eusebius",
       "month": 1,
       "day": 31,
       "entry": 11,
@@ -4728,7 +4728,7 @@
       "country": "SE"
     },
     {
-      "id": "mr:0215-sepulcrus",
+      "id": "mr:0215-angelus-scarpetti",
       "month": 2,
       "day": 15,
       "entry": 10,
@@ -4768,7 +4768,7 @@
       "country": "IR"
     },
     {
-      "id": "mr:0216-petrus",
+      "id": "mr:0216-philippa-mareri",
       "month": 2,
       "day": 16,
       "entry": 4,
@@ -5121,7 +5121,7 @@
       "country": "BE"
     },
     {
-      "id": "mr:0220-trudo-fanus",
+      "id": "mr:0220-eucherius",
       "month": 2,
       "day": 20,
       "entry": 5,
@@ -6121,7 +6121,7 @@
       "country": "GB"
     },
     {
-      "id": "mr:0304-salvator-visconti",
+      "id": "mr:0304-placida-viel",
       "month": 3,
       "day": 4,
       "entry": 8,
@@ -6852,7 +6852,7 @@
       "country": "GB"
     },
     {
-      "id": "mr:0312-geminianus",
+      "id": "mr:0312-fina",
       "month": 3,
       "day": 12,
       "entry": 9,
@@ -7326,7 +7326,7 @@
       "country": "GB"
     },
     {
-      "id": "mr:0318-salvator-visconti",
+      "id": "mr:0318-martha-le-bouteiller",
       "month": 3,
       "day": 18,
       "entry": 10,
@@ -8981,7 +8981,7 @@
       "country": "CH"
     },
     {
-      "id": "mr:0406-elias-de-aulinis",
+      "id": "mr:0406-philaretus",
       "month": 4,
       "day": 6,
       "entry": 8,
@@ -11207,7 +11207,7 @@
       "country": "IT"
     },
     {
-      "id": "mr:0428-laurentius",
+      "id": "mr:0428-maria-ludovica-a-iesu-trichet",
       "month": 4,
       "day": 28,
       "entry": 10,
@@ -15418,7 +15418,7 @@
       "country": "GB"
     },
     {
-      "id": "mr:0606-annemundus",
+      "id": "mr:0606-marcellinus-champagnat",
       "month": 6,
       "day": 6,
       "entry": 16,
@@ -19350,7 +19350,7 @@
       "country": "PT"
     },
     {
-      "id": "mr:0716-crucis",
+      "id": "mr:0716-bartholomaeus-a-martyribus-fernandes",
       "month": 7,
       "day": 16,
       "entry": 10,
@@ -19390,7 +19390,7 @@
       "country": "FR"
     },
     {
-      "id": "mr:0716-salvator-visconti",
+      "id": "mr:0716-maria-magdalena-postel",
       "month": 7,
       "day": 16,
       "entry": 15,
@@ -20244,7 +20244,7 @@
       "country": "IT"
     },
     {
-      "id": "mr:0724-trudo-fanus",
+      "id": "mr:0724-christina-mirabilis",
       "month": 7,
       "day": 24,
       "entry": 10,
@@ -23494,7 +23494,7 @@
       "country": "ES"
     },
     {
-      "id": "mr:0818-iacobus",
+      "id": "mr:0818-albertus-hurtado-cruchaga",
       "month": 8,
       "day": 18,
       "entry": 16,
@@ -24891,7 +24891,7 @@
       "country": "PL"
     },
     {
-      "id": "mr:0829-iulia",
+      "id": "mr:0829-teresia-bracco",
       "month": 8,
       "day": 29,
       "entry": 18,
@@ -26949,7 +26949,7 @@
       "country": "FR"
     },
     {
-      "id": "mr:0917-rupertus",
+      "id": "mr:0917-hildegardis",
       "month": 9,
       "day": 17,
       "entry": 7,
@@ -28333,7 +28333,7 @@
       "country": "JP"
     },
     {
-      "id": "mr:0928-felix-de-codines",
+      "id": "mr:0928-franciscus-xaverius-ponsa-casallarch",
       "month": 9,
       "day": 28,
       "entry": 16,
@@ -31297,7 +31297,7 @@
       "country": "ES"
     },
     {
-      "id": "mr:1025-antonius",
+      "id": "mr:1025-thaddaeus-machar",
       "month": 10,
       "day": 25,
       "entry": 11,
@@ -31948,7 +31948,7 @@
       "country": "FR"
     },
     {
-      "id": "mr:1101-sepulcrus",
+      "id": "mr:1101-rainerius-aretinus",
       "month": 11,
       "day": 1,
       "entry": 13,
@@ -42938,15 +42938,6 @@
       "subject_la": "Sanctus Vitalianus"
     },
     {
-      "id": "mr:0716-maria-magdalena-postel",
-      "month": 7,
-      "day": 16,
-      "entry": 9,
-      "deprecated": true,
-      "attested_in": "martyrologium_romanum_1749",
-      "subject_la": "Sancta Maria Magdalena Postel"
-    },
-    {
       "id": "mr:0717-generosus",
       "month": 7,
       "day": 17,
@@ -45152,15 +45143,6 @@
       "subject_la": "Sancta Agathoclia"
     },
     {
-      "id": "mr:0917-hildegardis",
-      "month": 9,
-      "day": 17,
-      "entry": 14,
-      "deprecated": true,
-      "attested_in": "martyrologium_romanum_1749",
-      "subject_la": "Sancta Hildegardis"
-    },
-    {
       "id": "mr:0918-sophia-et-irene",
       "month": 9,
       "day": 18,
@@ -46221,6 +46203,15 @@
       "deprecated": true,
       "attested_in": "martyrologium_romanum_1749",
       "subject_la": "Sancti Felix et socii"
+    },
+    {
+      "id": "mr:1025-marcellinus",
+      "month": 10,
+      "day": 25,
+      "entry": 2,
+      "deprecated": true,
+      "attested_in": "martyrologium_romanum_1749",
+      "subject_la": "Sanctus Marcellinus"
     },
     {
       "id": "mr:1025-protus-et-ianuarius",

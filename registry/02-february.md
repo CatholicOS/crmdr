@@ -196,12 +196,12 @@
 | 15 | 7 | `mr:0215-decorosus` |  | IT |  |
 | 15 | 8 | `mr:0215-walfridus` | * | IT |  |
 | 15 | 9 | `mr:0215-sigfridus` | * | SE |  |
-| 15 | 10 | `mr:0215-sepulcrus` | * | IT |  |
+| 15 | 10 | `mr:0215-angelus-scarpetti` | * | IT |  |
 | 15 | 11 | `mr:0215-claudius-la-colombiere` |  | FR |  |
 | 16 | 1 | `mr:0216-iuliana` |  | IT |  |
 | 16 | 2 | `mr:0216-elias-et-socii` |  | PS |  |
 | 16 | 3 | `mr:0216-marutha` |  | IR |  |
-| 16 | 4 | `mr:0216-petrus` | * | IT |  |
+| 16 | 4 | `mr:0216-philippa-mareri` | * | IT |  |
 | 16 | 5 | `mr:0216-nicolaus-paglia` | * | IT |  |
 | 16 | 6 | `mr:0216-iosephus-allamano` | * | IT |  |
 | 17 | (1) | `mr:0217-septem-fundatores-servorum-mariae` |  | IT |  |
@@ -245,7 +245,7 @@
 | 20 | 2 | `mr:0220-quinque-martyres-tyri` |  | LB |  |
 | 20 | 3 | `mr:0220-tyrannion` |  | TR |  |
 | 20 | 4 | `mr:0220-eleutherius` |  | BE |  |
-| 20 | 5 | `mr:0220-trudo-fanus` |  | BE |  |
+| 20 | 5 | `mr:0220-eucherius` |  | BE |  |
 | 20 | 6 | `mr:0220-leo` |  | IT |  |
 | 20 | 7 | `mr:0220-hyacintha-marto` | * | PT |  |
 | 20 | 8 | `mr:0220-iulia-rodzinska` | * | PL |  |

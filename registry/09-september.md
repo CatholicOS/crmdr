@@ -237,7 +237,7 @@
 | 17 | 4 | `mr:0917-rodingus` | * | FR |  |
 | 17 | 5 | `mr:0917-columba` |  | ES |  |
 | 17 | 6 | `mr:0917-reginaldus` | * | FR |  |
-| 17 | 7 | `mr:0917-rupertus` |  | DE |  |
+| 17 | 7 | `mr:0917-hildegardis` |  | DE |  |
 | 17 | 8 | `mr:0917-cherubinus-testa` | * | IT |  |
 | 17 | 9 | `mr:0917-petrus-de-arbues` |  | ES |  |
 | 17 | 10 | `mr:0917-emmanuel-nguyen-van-trieu` |  | VN |  |
@@ -409,7 +409,7 @@
 | 28 | 13 | `mr:0928-bernardinus-de-feltria-tomitano` | * | IT |  |
 | 28 | 14 | `mr:0928-simon-de-rojas` |  | ES |  |
 | 28 | 15 | `mr:0928-ioannes-shozaburo` | * | JP |  |
-| 28 | 16 | `mr:0928-felix-de-codines` | * | ES |  |
+| 28 | 16 | `mr:0928-franciscus-xaverius-ponsa-casallarch` | * | ES |  |
 | 28 | 17 | `mr:0928-amalia-abad-casasempere` | * | ES |  |
 | 28 | 18 | `mr:0928-iosephus-tarrats-comaposada` | * | ES |  |
 | 28 | 19 | `mr:0928-nicetas-budka` | * | KZ |  |

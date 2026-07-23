@@ -200,7 +200,7 @@
 | 15 | 9 | `mr:0115-romedius` | * | IT |  |
 | 15 | 10 | `mr:0115-bonitus` |  | FR |  |
 | 15 | 11 | `mr:0115-arsenius` | * | IT |  |
-| 15 | 12 | `mr:0115-aegidius` | * | FR |  |
+| 15 | 12 | `mr:0115-petrus-de-castronovo` | * | FR |  |
 | 15 | 13 | `mr:0115-iacobus-eleemosynarius` | * | IT |  |
 | 15 | 14 | `mr:0115-angelus` | * | IT |  |
 | 15 | 15 | `mr:0115-franciscus-fernandez-de-capillas` |  | CN |  |
@@ -264,7 +264,7 @@
 | 20 | 9 | `mr:0120-eustochius-calafato` |  | IT |  |
 | 20 | 10 | `mr:0120-stephanus-min-kuk-ka` |  | KR |  |
 | 20 | 11 | `mr:0120-maria-christina-ab-immaculata-brando` | * | IT |  |
-| 20 | 12 | `mr:0120-bernardus` | * | GB |  |
+| 20 | 12 | `mr:0120-cyprianus-iwene-tansi` | * | GB |  |
 | 21 | (1) | `mr:0121-agnes` |  | IT |  |
 | 21 | 2 | `mr:0121-publius` |  | GR |  |
 | 21 | 3 | `mr:0121-fructuosus` |  | ES |  |
@@ -341,7 +341,7 @@
 | 27 | 7 | `mr:0127-theodoricus` | * | FR |  |
 | 27 | 8 | `mr:0127-gilduinus` | * | FR |  |
 | 27 | 9 | `mr:0127-ioannes` | * | FR |  |
-| 27 | 10 | `mr:0127-vitalis` | * | IT |  |
+| 27 | 10 | `mr:0127-manfredus-settala` | * | IT |  |
 | 27 | 11 | `mr:0127-rosalia-du-verdier-de-la-soriniere` | * | FR |  |
 | 27 | 12 | `mr:0127-ioannes-maria` |  | UG |  |
 | 27 | 13 | `mr:0127-henricus-de-osso-y-cervello` |  | ES |  |
@@ -394,7 +394,7 @@
 | 31 | 8 | `mr:0131-marcella` |  | IT |  |
 | 31 | 9 | `mr:0131-maedhoc` | * | IE |  |
 | 31 | 10 | `mr:0131-waldus` | * | FR |  |
-| 31 | 11 | `mr:0131-victor` | * | DE |  |
+| 31 | 11 | `mr:0131-eusebius` | * | DE |  |
 | 31 | 12 | `mr:0131-ludovica-albertoni` | * | IT |  |
 | 31 | 13 | `mr:0131-franciscus-xaverius-maria-bianchi` |  | IT |  |
 | 31 | 14 | `mr:0131-augustinus-pak-chong-won-et-socii` |  | KR |  |

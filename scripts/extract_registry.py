@@ -85,6 +85,38 @@ ID_CORRECTIONS = {
     # shares Jan 10 with Pope Gregory X (mr:0110-gregorius-x). Rule 1's bare
     # first-named subject "gregorius" is ambiguous here, so the byname is kept.
     "mr:0110-gregorius": "mr:0110-gregorius-nyssenus",
+    # Place-name lead slugs: the workbook coined these from the *place* named
+    # first in the elogium (a locus whose name embeds a saint, e.g. "Burgi
+    # Sancti Sepulcri", "Fanum Sancti Aegidii", "in coenobio Sancti Salvatoris
+    # Vicecomitis"), not from the elogium's actual subject. Rule 1: the slug is
+    # the first-named *subject*. Corrected to the subject's Latin nominative lemma.
+    "mr:0115-aegidius": "mr:0115-petrus-de-castronovo",
+    "mr:0120-bernardus": "mr:0120-cyprianus-iwene-tansi",
+    "mr:0127-vitalis": "mr:0127-manfredus-settala",
+    "mr:0131-victor": "mr:0131-eusebius",
+    "mr:0215-sepulcrus": "mr:0215-angelus-scarpetti",
+    "mr:0216-petrus": "mr:0216-philippa-mareri",
+    "mr:0220-trudo-fanus": "mr:0220-eucherius",
+    "mr:0304-salvator-visconti": "mr:0304-placida-viel",
+    "mr:0312-geminianus": "mr:0312-fina",
+    "mr:0318-salvator-visconti": "mr:0318-martha-le-bouteiller",
+    "mr:0406-elias-de-aulinis": "mr:0406-philaretus",
+    "mr:0428-laurentius": "mr:0428-maria-ludovica-a-iesu-trichet",
+    "mr:0606-annemundus": "mr:0606-marcellinus-champagnat",
+    "mr:0716-crucis": "mr:0716-bartholomaeus-a-martyribus-fernandes",
+    "mr:0724-trudo-fanus": "mr:0724-christina-mirabilis",
+    "mr:0818-iacobus": "mr:0818-albertus-hurtado-cruchaga",
+    "mr:0829-iulia": "mr:0829-teresia-bracco",
+    "mr:0928-felix-de-codines": "mr:0928-franciscus-xaverius-ponsa-casallarch",
+    "mr:1025-antonius": "mr:1025-thaddaeus-machar",
+    "mr:1101-sepulcrus": "mr:1101-rainerius-aretinus",
+    # Same place-name-lead bug, but the true subject already had a (wrongly)
+    # deprecated ID at the same day: Postel (d. 1846) and Hildegard both have
+    # 2004 elogia, so they are current, not attested-only-in-history. The
+    # spurious deprecated IDs are removed from deprecated_ids.json and the
+    # current place-slug entries re-slugged to the proper subject.
+    "mr:0716-salvator-visconti": "mr:0716-maria-magdalena-postel",
+    "mr:0917-rupertus": "mr:0917-hildegardis",
 }
 
 # Days whose opening elogia are printed as unnumbered drop-cap paragraphs in

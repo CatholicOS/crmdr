@@ -270,7 +270,7 @@
 | 18 | 13 | `mr:0818-iacobus-falgarona-vilanova-et-athanasius-vidaurreta-labra` | * | ES |  |
 | 18 | 14 | `mr:0818-martinus-martinez-pascual` | * | ES |  |
 | 18 | 15 | `mr:0818-vincentius-maria-izquierdo-alcon` | * | ES |  |
-| 18 | 16 | `mr:0818-iacobus` | * | CL |  |
+| 18 | 16 | `mr:0818-albertus-hurtado-cruchaga` | * | CL |  |
 | 19 | (1) | `mr:0819-ioannes-eudes` |  | FR |  |
 | 19 | 2 | `mr:0819-magnus` |  | IT |  |
 | 19 | 3 | `mr:0819-maginus` |  | ES |  |
@@ -443,7 +443,7 @@
 | 29 | 15 | `mr:0829-franciscus-monzon-romeo` | * | ES |  |
 | 29 | 16 | `mr:0829-dominicus-jedrzejewski` | * | DE |  |
 | 29 | 17 | `mr:0829-sancia-szymkowiak` | * | PL |  |
-| 29 | 18 | `mr:0829-iulia` | * | IT |  |
+| 29 | 18 | `mr:0829-teresia-bracco` | * | IT |  |
 | 30 | 1 | `mr:0830-felix-et-adauctus` |  | IT |  |
 | 30 | 2 | `mr:0830-sexaginta-martyres-coloniae-sufetanae` |  | TN |  |
 | 30 | 3 | `mr:0830-pammachius` |  | IT |  |
