@@ -69,7 +69,7 @@
 | 6 | 5 | `mr:0406-prudentius` | * | FR |  |
 | 6 | 6 | `mr:0406-methodius` |  | CZ |  |
 | 6 | 7 | `mr:0406-notkerus-balbuli` | * | CH |  |
-| 6 | 8 | `mr:0406-elias-de-aulinis` | * | IT |  |
+| 6 | 8 | `mr:0406-philaretus` | * | IT |  |
 | 6 | 9 | `mr:0406-gulielmus` |  | DK |  |
 | 6 | 10 | `mr:0406-petrus-veronensis` |  | IT |  |
 | 6 | 11 | `mr:0406-maria` | * | IT |  |
@@ -346,7 +346,7 @@
 | 28 | 7 | `mr:0428-prudentius` |  | ES |  |
 | 28 | 8 | `mr:0428-pamphilus` |  | IT |  |
 | 28 | 9 | `mr:0428-luchesius` | * | IT |  |
-| 28 | 10 | `mr:0428-laurentius` | * | FR |  |
+| 28 | 10 | `mr:0428-maria-ludovica-a-iesu-trichet` | * | FR |  |
 | 28 | 11 | `mr:0428-paulus-pham-khac-khoan` |  | VN |  |
 | 28 | 12 | `mr:0428-iosephus-cebula` | * | AT |  |
 | 28 | 13 | `mr:0428-ioanna-beretta-molla` |  | IT |  |

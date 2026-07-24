@@ -88,7 +88,7 @@
 | 6 | 13 | `mr:0606-bertrandus` | * | IT |  |
 | 6 | 14 | `mr:0606-laurentius-de-villamagna-de-masculis` | * | IT |  |
 | 6 | 15 | `mr:0606-gulielmus-greenwood` | * | GB |  |
-| 6 | 16 | `mr:0606-annemundus` |  | FR |  |
+| 6 | 16 | `mr:0606-marcellinus-champagnat` |  | FR |  |
 | 6 | 17 | `mr:0606-petrus-dung-et-petrus-thuan` |  | VN |  |
 | 6 | 18 | `mr:0606-raphael-guizar-valencia` | * | MX |  |
 | 6 | 19 | `mr:0606-innocentius-guz` | * | DE |  |

@@ -5544,15 +5544,6 @@
   "subject_la": "Sanctus Vitalianus"
  },
  {
-  "id": "mr:0716-maria-magdalena-postel",
-  "month": 7,
-  "day": 16,
-  "entry": 9,
-  "deprecated": true,
-  "attested_in": "martyrologium_romanum_1749",
-  "subject_la": "Sancta Maria Magdalena Postel"
- },
- {
   "id": "mr:0717-generosus",
   "month": 7,
   "day": 17,
@@ -7758,15 +7749,6 @@
   "subject_la": "Sancta Agathoclia"
  },
  {
-  "id": "mr:0917-hildegardis",
-  "month": 9,
-  "day": 17,
-  "entry": 14,
-  "deprecated": true,
-  "attested_in": "martyrologium_romanum_1749",
-  "subject_la": "Sancta Hildegardis"
- },
- {
   "id": "mr:0918-sophia-et-irene",
   "month": 9,
   "day": 18,
@@ -8827,6 +8809,15 @@
   "deprecated": true,
   "attested_in": "martyrologium_romanum_1749",
   "subject_la": "Sancti Felix et socii"
+ },
+ {
+  "id": "mr:1025-marcellinus",
+  "month": 10,
+  "day": 25,
+  "entry": 2,
+  "deprecated": true,
+  "attested_in": "martyrologium_romanum_1749",
+  "subject_la": "Sanctus Marcellinus"
  },
  {
   "id": "mr:1025-protus-et-ianuarius",

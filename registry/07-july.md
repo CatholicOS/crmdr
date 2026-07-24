@@ -229,12 +229,12 @@
 | 16 | 7 | `mr:0716-sisenandus` |  | ES |  |
 | 16 | 8 | `mr:0716-irmengardis` | * | DE |  |
 | 16 | 9 | `mr:0716-simon-da-costa` | * | PT |  |
-| 16 | 10 | `mr:0716-crucis` | * | PT |  |
+| 16 | 10 | `mr:0716-bartholomaeus-a-martyribus-fernandes` | * | PT |  |
 | 16 | 11 | `mr:0716-ioannes-sugar` | * | GB |  |
 | 16 | 12 | `mr:0716-andreas-de-soveral` | * | BR |  |
 | 16 | 13 | `mr:0716-nicolaus-savouret` | * | FR |  |
 | 16 | 14 | `mr:0716-amata-a-iesu-de-gordon-et-socii` | * | FR |  |
-| 16 | 15 | `mr:0716-salvator-visconti` |  | FR |  |
+| 16 | 15 | `mr:0716-maria-magdalena-postel` |  | FR |  |
 | 16 | 16 | `mr:0716-lang-yangzhi` |  | CN |  |
 | 16 | 17 | `mr:0716-teresia-zhang-hezhi` |  | CN |  |
 | 17 | 1 | `mr:0717-scillitani` |  | TN |  |
@@ -340,7 +340,7 @@
 | 24 | 7 | `mr:0724-sigolena` | * | FR |  |
 | 24 | 8 | `mr:0724-bor-et-gleb` |  | RU |  |
 | 24 | 9 | `mr:0724-balduinus` | * | IT |  |
-| 24 | 10 | `mr:0724-trudo-fanus` | * | BE |  |
+| 24 | 10 | `mr:0724-christina-mirabilis` | * | BE |  |
 | 24 | 11 | `mr:0724-kinga` |  | PL |  |
 | 24 | 12 | `mr:0724-ioannes-de-tossiniano-tavelli` | * | IT |  |
 | 24 | 13 | `mr:0724-translatio-trium-magorum` |  | DE |  |

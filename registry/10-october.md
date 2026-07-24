@@ -336,7 +336,7 @@
 | 25 | 8 | `mr:1025-fructus` | * | ES |  |
 | 25 | 9 | `mr:1025-maurus` | * | HU |  |
 | 25 | 10 | `mr:1025-bernardus-calbo` | * | ES |  |
-| 25 | 11 | `mr:1025-antonius` | * | IT |  |
+| 25 | 11 | `mr:1025-thaddaeus-machar` | * | IT |  |
 | 25 | 12 | `mr:1025-recaredus-centelles-abad` | * | ES |  |
 | 25 | 13 | `mr:1025-maria-teresia-ferragud-roig` | * | ES |  |
 | 26 | 1 | `mr:1026-lucianus-et-marcianus` |  | TR |  |

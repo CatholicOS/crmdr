@@ -44,7 +44,7 @@
 | 4 | 5 | `mr:0304-petrus` | * | IT |  |
 | 4 | 6 | `mr:0304-humbertus` | * | FR |  |
 | 4 | 7 | `mr:0304-christophorus-bales` | * | GB |  |
-| 4 | 8 | `mr:0304-salvator-visconti` | * | FR |  |
+| 4 | 8 | `mr:0304-placida-viel` | * | FR |  |
 | 4 | 9 | `mr:0304-ioannes-antonius-farina` | * | IT |  |
 | 4 | 10 | `mr:0304-miecislaus-bohatkiewicz-et-socii` | * | PL |  |
 | 5 | 1 | `mr:0305-theophilus` |  | PS |  |
@@ -135,7 +135,7 @@
 | 12 | 6 | `mr:0312-gregorius-i-magnus` |  | IT |  |
 | 12 | 7 | `mr:0312-theophanes-chronographus` |  | TR |  |
 | 12 | 8 | `mr:0312-elphegus` | * | GB |  |
-| 12 | 9 | `mr:0312-geminianus` | * | IT |  |
+| 12 | 9 | `mr:0312-fina` | * | IT |  |
 | 12 | 10 | `mr:0312-iustina-francucci-bezzoli` | * | IT |  |
 | 12 | 11 | `mr:0312-hieronymus-gherarducci` | * | IT |  |
 | 12 | 12 | `mr:0312-iosephus-zhang-dapeng` |  | CN |  |
@@ -194,7 +194,7 @@
 | 18 | 7 | `mr:0318-anselmus` |  | IT |  |
 | 18 | 8 | `mr:0318-salvator-de-horta-grionesos` |  | IT |  |
 | 18 | 9 | `mr:0318-ioannes-thules` | * | GB |  |
-| 18 | 10 | `mr:0318-salvator-visconti` | * | FR |  |
+| 18 | 10 | `mr:0318-martha-le-bouteiller` | * | FR |  |
 | 19 | (1) | `mr:0319-ioseph` |  | PS |  |
 | 19 | 2 | `mr:0319-ioannes` |  | IT |  |
 | 19 | 3 | `mr:0319-isnardus-de-chiampo` | * | IT |  |
